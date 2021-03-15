@@ -1,0 +1,28 @@
+#To sync:
+#Use Celeste v1.3.1.2
+#Use Winter Collab v1.0.7
+#Use the bindings in the CelesteTAS readme
+#Turn on speedrun timer
+#Turn on show Mod Options in game
+#Change your default map to Spring Collab 2020
+#Start from Begin
+#Make sure map select shows up
+#Open and close Mod Options if it doesn't
+#Make sure to turn off the #"Display End Screen for All Maps" option
+
+Read,StartFullCollabFile
+
+Read,Maps\Prologue,Start
+
+Read,LoadLobby
+
+#Read,1_Beginner_Lobby\start-abby,Start
+#Read,EnterLevel
+#Read,1_Beginner\abby-Beginner,Start
+#Read,ExitLevel
+
+
+#Read,1_Beginner_Lobby\thegur90-heartside,Start
+#Read,EnterFusionside
+#Read,1_Beginner\heartside-Beginner,Start
+
