@@ -331,18 +331,20 @@ console load WinterCollab2021/1-Maps/Cabob_OkNano
   14,R,D,X
    8,R
   14,R,X
-   7
-   9,U,X
-  11,L,D,C
+   2
+   9,R,U,X
+   4
+   9,L,D,C
   20,R,J
   14,R,D,X
-  21,R
-   9,L,D,X
-  14,D,C
-  21
-  13,U,X
-  10,R,C
-   8,R,D,X
+  22
+   4,R,X
+  10,L,D
+   4
+  14,R,D,X
+   9
+   1,R,J
+   7,R,D,X
   22,R,J
   12,U,X
   30,R,J
@@ -350,9 +352,10 @@ console load WinterCollab2021/1-Maps/Cabob_OkNano
   16,R,J
   14,R,U,X
   22,R
+   1,R
   14,R,D,X
-  13,R
-  39,R,D,J
+  12,R
+  39,R,J
   14,R,U,X
    1,R
    1,R,J,G
