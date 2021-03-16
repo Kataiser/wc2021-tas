@@ -1,0 +1,64 @@
+console load WinterCollab2021/0-Lobbies/1-Maps 4064 2368
+   1
+
+#Start
+  36
+
+#lvl_2-lobby
+   4,D,X
+   2,L
+   1,L,J
+   7,L
+   1,L,J
+  14,L,D,X
+   1,L,J
+  14,L,D,X
+   1,L,J
+  14,L,D,X
+   1,L,J
+  14,L,D,X
+   1,L,J
+  14,L,D,X
+   1,L,J
+  14,L,D,X
+   1,L,J
+   2,L
+  17,L,D,X
+   3,L
+   7
+   1,J
+   1,L
+   1
+  15,D,X
+   3,R,D
+  12,L,D
+  14,L,D,X
+   6,L,J
+   3,L
+   1,L,J
+  10,L
+***
+  15,D,X
+  29,L,D
+  29,R,D
+   4,D,C
+   1,R,J
+   7,R
+   1,R,J
+   1,J
+  10,R,J
+  12,U,X
+   8,R,J
+   3,R
+   1,R,K,G
+   7,R
+   4,D,X
+   1,R,J
+   7,R
+   1,R,J
+   1,J
+   2,R,J
+   6,R,K,G
+  15,R
+   1,X
+#5.525(325)
