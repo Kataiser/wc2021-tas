@@ -1,0 +1,69 @@
+# for the cutscene
+# fuck this cutscene
+Unsafe
+console clrsav
+console load WinterCollab2021/1-Maps/Viv 277 424
+   1
+  36
+  20,R
+   4,D,X
+   6,L
+   1,L,J
+  20,D
+  15,L,D,X
+ 235
+console load WinterCollab2021/1-Maps/DanTKO 8968 -784
+   1
+  36
+   5,J
+  15,U,X
+ 235
+
+console load WinterCollab2021/0-Lobbies/1-Maps 2088 3040
+   1
+
+#Start
+  36
+***
+#lvl_2-lobby
+   4,D,X
+   1,R,X
+   1,L,J
+  12
+  10,L,D,X
+   5,R,J
+  15,D,X
+   6,R
+   1,R,J
+  15,D,X
+   1,R
+  13,R,D
+   5,D
+   4,R,D
+  15,L,D
+   1,S
+   1,D,J
+  34
+   1,L,D
+  15,L,D,X
+   2,D
+   5,L,D
+#  22,R,D
+#   3,D
+#  14,R,D,X
+#   1,R,J
+#   1,R,K
+#   1,R,J
+#  11,R
+#   1,X
+# waterboost 2f slow
+
+  13,R,D
+  10,L,D,X
+   1,R,J
+   4,R
+  15,R,D,X
+   9,R,D
+   3,R
+   1,X
+#3.434(202)

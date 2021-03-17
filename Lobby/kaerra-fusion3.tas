@@ -18,7 +18,7 @@ console load WinterCollab2021/0-Lobbies/1-Maps 3312 2400
 
 #Start
   36
-***
+
 #lvl_2-lobby
    7,R,J
    4,D,X
@@ -35,9 +35,7 @@ console load WinterCollab2021/0-Lobbies/1-Maps 3312 2400
    1,R,J
    3,R
    7,R,J
-   1,R,K,G
-
-   1,R,K,G
+   2,R,K,G
    8,R,D,X
    1,S
    1,D,J

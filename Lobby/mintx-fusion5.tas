@@ -1,0 +1,39 @@
+# for the cutscene
+# fuck this cutscene
+Unsafe
+console clrsav
+console load WinterCollab2021/1-Maps/Banana23 5400.33685722947 -2456.92169094086 3.33317 160
+   1
+  36
+  15,L,X
+ 225
+console load WinterCollab2021/1-Maps/mintx 5798.83337427676 -8
+   1
+  36
+  15,U,X
+ 225
+
+console load WinterCollab2021/0-Lobbies/1-Maps 3168 3312
+   1
+
+#Start
+  36
+
+#lvl_2-lobby
+   4,D,X
+   1,L,J
+   7,L
+   3,L,J
+  10,L,D,X
+  11,L,J
+   4,L,K,G
+   9,L,D,X
+   1,S
+   1,D,J
+  34
+   1,L
+   2,L,J
+   5,L
+  26,L,D,C
+   1,X
+#1.836(108)

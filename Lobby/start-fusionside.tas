@@ -1,0 +1,29 @@
+console overworld
+***
+console clrsav
+console hearts 0
+console hearts 36
+
+console load WinterCollab2021/0-Lobbies/1-Maps
+   1
+
+#Start
+  36
+
+#lvl_2-lobby
+   4,D,X
+   4,R,X
+   1,L,J
+   7,L
+   2,L,J
+   1,J
+  15,L,D,X
+   1,L,J
+   4,L
+   7,L,D,X
+   1,L,J,G
+  14,L
+   1,L,J
+   4,L,K,G
+   5,L
+  15,L,D,X

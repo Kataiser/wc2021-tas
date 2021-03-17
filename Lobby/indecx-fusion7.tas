@@ -1,0 +1,36 @@
+# for the cutscene
+# fuck this cutscene
+Unsafe
+console clrsav
+console load WinterCollab2021/1-Maps/Bissy 958.855832830071 -3386.7500359267 0 -7.499802
+   1
+  36
+  15,U,X
+ 225
+console load WinterCollab2021/1-Maps/Indecx 8172.1805562526 583.341734170914
+   1
+  36
+  15,L,X
+ 225
+
+console load WinterCollab2021/0-Lobbies/1-Maps 1368 3272
+   1
+
+#Start
+  36
+
+#lvl_2-lobby
+   4,D,X
+   1,R,J
+   1,J
+   5,R,J
+   9,R
+   1,S
+   1,D,J
+  34
+   7,R,D
+   1,D
+  80,R,D
+  38,R,D,C
+   1,X
+#3.009(177)
