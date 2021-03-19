@@ -45,8 +45,7 @@ console load WinterCollab2021/1-Maps/Jackal
    8,R
   12,U,X
   11,R,J
-  21,R,D
-   4,D
+  25,R,D
    4,D,X
    2,R,X
    1,R,J
@@ -59,8 +58,8 @@ console load WinterCollab2021/1-Maps/Jackal
 #lvl_j3
    3,R,D,X
    7,R,J
-  17,R,K,G
-  24,R,D
+  11,R,K,G
+  29,R,D
    4,D,X
   12,R,X
    3
@@ -78,7 +77,7 @@ console load WinterCollab2021/1-Maps/Jackal
   13,L,X
   20,L,J,G
    9,U,X
-   8,J
+   8,R,J
   40
 
 #lvl_j4
@@ -305,11 +304,14 @@ console load WinterCollab2021/1-Maps/Jackal
   17,R,X
   29,L,C
   32,L,J,G
-   9,U,X
-  47,L,J
-   7,L,X
-  24,L,J,G
-  13,L,X
+  11,U,X
+   7,L,J
+   7,L
+  17,L,J
+  12,L,X
+   7,L,J,G
+  15,L
+  14,L,X
   18,D,C
   22,R,X
   61,L,C
@@ -332,8 +334,8 @@ console load WinterCollab2021/1-Maps/Jackal
   12,R
    1,R,J
   14,R,D,X
-  23,R,J
-  13,R,X
+  22,R,J
+  14,R,X
    2,R,J,G
   39,R,K,G
   42,L,U,X
