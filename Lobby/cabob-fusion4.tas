@@ -1,0 +1,49 @@
+# for the cutscene
+# fuck this cutscene
+Unsafe
+console clrsav
+console load WinterCollab2021/1-Maps/Cabob 11796.6111197472 -3162.95818734169 276.6667 -142.5
+   1
+  36
+  10,R
+  15,R,U,X
+ 220
+
+console load WinterCollab2021/1-Maps/OkNano 2959.50006210804 -2816
+   1
+  36
+  15,U,X
+ 220
+
+console load WinterCollab2021/0-Lobbies/1-Maps 3416 2736
+   1
+
+#Start
+  36
+
+***
+#lvl_2-lobby
+   1,R,J
+   1,R
+  15,L,D,X
+  15,R,D,C
+  13,R,D
+   4,D,X
+   1,R,J
+  10,R
+   1,S
+   1,D,J
+  34
+   5,R
+   1,R,J
+  14,R,D,X
+  84
+   4,R,J
+  11,R,K
+  15,R,D,X
+   1,R,J
+   1,R
+  15,R,D,X
+   2,R
+   1,X
+#3.893(229)

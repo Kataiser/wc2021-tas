@@ -9,18 +9,16 @@ console load WinterCollab2021/0-Lobbies/1-Maps
    1,L,J
    7,L
    2,L,J
-   1,J
   15,L,D,X
-   1,L,J
-   4,L
+   1,L
+   2,L,J
+   2,L
    7,L,D,X
-   1,L,J,G
-  14,L
-   1,L,J
-   4,L,K,G
-   5,L
-  15,L,D,X
-  15,L,J
+   4,L,J,G
+  12,L
+   4,L,J
+  16,L,D,X
+  16,L,J
   15,U,X
    2,L
    5,J
@@ -48,4 +46,4 @@ console load WinterCollab2021/0-Lobbies/1-Maps
    5,R,J
   15,R,D,C
    1,X
-#4.182(246)
+#4.114
