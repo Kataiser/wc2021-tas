@@ -1,4 +1,5 @@
 #By Kataiser
+
 console load WinterCollab2021/1-Maps/Donker19
    1
 
@@ -42,7 +43,8 @@ console load WinterCollab2021/1-Maps/Donker19
   23,R,X
   16,L,U,C
    3,R
-  21,R,U,X
+  18,R,U,X
+   3,R
   14,R,U,C
   34,R,U,G
    1,R
@@ -91,44 +93,41 @@ console load WinterCollab2021/1-Maps/Donker19
    6,R,X
   28,R,J
   14,R,X
-   9,R,J,G
-   2,R,K,G
    1,R,J,G
    1,R,K,G
-#bad but cool
-  13,R
+   5,R,J,G
+   2,R
+   1,R,K,G
+   7,R
+   9,R,J
   40
 
 #lvl_donker-05
-  13,R,X
-   9,R,J
-   6,R,X
-  56,R,U,G
+#2fast2quick
+   1,R,J
+  14,R,X
+  37,R,G
+  14,R,D,G
    1,L
-  10,R
-   4,D,X
    1,R,J
    7,R
-   1,R,J
   40
 
 #lvl_donker-04
-   2,R,J
-  22,R,U,X
+   4,R
+  23,R,U,X
    5,R,J
    4,D,X
    2,R,X
-  40,R,J
+  22,R,J
+  16,R,D
+   1,R
    4,D,X
   11,R,X
-  26,R
-   1,R,J,G
-   3,L,J
+  19,R,D
    2,R,J
-   7,R
-   3,R,J
    9,R,X
-  12
+  13
   10,R
   15,R,U,X
   16,R
@@ -228,27 +227,26 @@ console load WinterCollab2021/1-Maps/Donker19
    1,R,J,G
   20,R,K,G
    5,R,J,G
-   6,R
-   1
-   1,R,J
-   1,J
+   7,R
+   4,R,J
   15,U,X
    1
-   2,L,J
   40
 
 #lvl_donker-08
-  11,L,J
-  15,U,X
-  13,L
+  12,L,J
+  14,L,U,X
+   1,L,J,G
+   7,L
+   1,L,J
    4,D,X
   10,L,X
    4,L,J
   66,L,U,G
    1,R
   15,R,U,X
-   4,L
-   4,R
+   7,L
+   1,R
   34,R,D,G
   45,L,D,G
    7,L
@@ -259,11 +257,11 @@ console load WinterCollab2021/1-Maps/Donker19
    4,R,D,G
   36,R,U,G
   24,L,U,G
-   5,D
-   4,L,D
+   6,D
+   3,L,D
   12,U,X
-  48,L,G
-   3,L,D,G
+  47,L,G
+   4,L,D,G
    1,R
   15,L
    4,D,X
@@ -299,55 +297,54 @@ console load WinterCollab2021/1-Maps/Donker19
    4,D,X
   11,L,X
    4,L,J
-   3,L,K
-   4,L
-  14,U,X
-  21,L,D,G
-  67,D,G
-  19,L,D,G
+   8,L,K
+   2
+  15,U,X
+   9
+  63,D,G
+  18,L,D,G
   37,R,D,G
-#you ever just
-   8,D,G
-   3,R,D,G
-   1,L
-  15,L,U,X
-   1,R
-   7,R,C
-  48,R,U,G
+   1,D,G
+   9,R
+  15,R,U,X
+   5,R,C
+  34,R,U,G
    1,R
   15,R,U,X
    5,R
-  21,R,U,G
+  25,R,U,G
    7,R
   14,R,U,X
-  32,R,U,G
+  33,R,U,G
    4,R
-   3,L
-  14,R,U,X
-  12,R,D,G
-  78,L,D,G
+   3
+  13,R,U,X
+   1,L
+  77,L,D,G
+  18,D,G
    1
-   9,R,D
-   9,L,D
+   3,R
+  12,L,D
+   1,L
+   1
+   1,L
    4,D,X
-  11,L,X
+   9,L,X
    4,L,J
-   3,L,K
-   4,L
-  13,U,X
-  21,L,D,G
-  62,D,G
-  20,L,D,G
+   1,L,K
+   7,K
+   2
+  15,U,X
+   9
+  60,D,G
+  19,L,D,G
    1,L,D
    4,D,X
   11,L,U,X
-   1,R,J,G
-   9,R,K,G
-   2,L,J
-   5,L,D
-   2,L,J
-  22,D
-  31,R,D
+  12,J
+  34,D
+  22,R,D
+   3,R
    4,D,X
   14,R,X
   15,R,C
@@ -370,7 +367,8 @@ console load WinterCollab2021/1-Maps/Donker19
   21,L,D,G
    9,L,D
   13,U,X
-  53,L,U,G
+  51,L,U,G
+   1,R
   15,U,X
   15,L,U,C
   19,L
@@ -389,50 +387,49 @@ console load WinterCollab2021/1-Maps/Donker19
   27,L,J
   15,L,U,X
    6,L
-
-#  25,L,U,G
-#   7,R,U,G
-#   1,L
-#   6,R
-#  14,L,U,X
-#  31,R,U,G
-#  10,L,D
-#  11,R,X
-# 100,R,G
-
-  24,L,G
-   2,L
-   5,R
-  14,L,U,X
-  21,R,U,G
-   1,L,D
-  12,L
-   8,R,U,X
-  30,R,G
-  16,D,G
-   1,R,D,G
-  18,R,U,G
-  27,R
-   7,R,D
-  19,R
-  11,U,X
-  39,R,D,G
-#it might be possible to
-#go through the spinner
-#gap up to left there
-   6,R,D,G
-   8,R
-  14,R,U,X
-  46,R,D,G
-  28,L,D,G
-#bad
+  25,L,G
+   6
    1,R
-  11,L
-  15,L,X
+  14,L,U,X
+  21,L,G
+  17,R,D
+   5,R,U,X
+
+#AAAAAAAAAAAAAAAAAAAA
+#  90,R,U,G
+#   1,R
+#  11,L
+#  14,R
+#   4
+#   4,D
+#  15
+#   3,L
+#  15,U,X
+#   3,L
+#  22,L,U,G
+# 200,U,G
+
+  59,R,U,G
+   1,R
+  33,R,D
+  18,R
+  11,U,X
+  50,R,U,G
+   6,R,D
+   3,D
+  12,U,X
+  44,L,U,G
+   1,R
+  15,L
+   6,L,J,G
   10,L
-  17,D,X
-   1,L
-  19,L,X
+   4,R
+   5,L,D
+   4,D
+  14,L,D,X
+   3
+   1,L,J,G
+  14,L,X
    4,L,J
    1,L,K
   32,L,U,G
@@ -440,13 +437,14 @@ console load WinterCollab2021/1-Maps/Donker19
    1,L,U,G
    1,L
   15,U,X
-  10,R
+   7,R
    1,L
-   3,L,J
-  11,L
+   1,L,J
+   7,L
+   8,L,J
    4,D,X
   11,L,X
-   7,L
+   7
    6,L,J,G
    7,L
   10,L,D,X
@@ -459,9 +457,8 @@ console load WinterCollab2021/1-Maps/Donker19
    2,L
   15,L,X
    5,L
-   6
-   1,L
-   1
+   2
+   5,L
    4,D,X
    1,L,J
   18,L
@@ -469,9 +466,10 @@ console load WinterCollab2021/1-Maps/Donker19
 
 #lvl_donker-end
   15,L,D,X
-  11,L,D
-   7,L,J
+  12,L,D
+   6,L,J
   27,L,U,X
-  90,L,D
+  61,L,D
+  22,D
    1,D,X
-  31,L,J
+  38,L,J

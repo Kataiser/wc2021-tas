@@ -1,104 +1,102 @@
-#by Mutagen
+#By Mutagen
 
-unsafe
 console load WinterCollab2021/1-Maps/Viv
    1
-   
+
 #Start
  190
 
 #lvl_Viv-0a
-  10,R,X
-   5,R,J
-  10,R,X
-   5,R
+#spinner cycles
+   1
+
+   4,D,X
+   1,R,X
    1,R,J
-   2,R,K,G
-  11,R
-  12,R,J
-   8,R,K,G
    7,R
+   7,R,J
+   1,R
+   1
+   9,R,J,G
+   1,L,K,G
+   7,R,K,G
+   1,R,J,G
+   2,L,J,G
+   1,R,K,G
+   9,R
    1,R,J
-  13,R
-   2,R,D
+  10,R
   15,R,D,X
    8,R,D
+   1,R
   10,R,X
    6,R,J
-  10,U,X
-   6
+  15,U,X
   12,R,J,G
   12,R,K,G
   12,R,J,G
-  10,R,D
-   1,R,J
-   9,R,D
-  13,D
-   1
-   1,D
-   1
-   1,D
-   1
-   1,D
-   1
-   1,D
-   1
-   4,D
+   3,R,K,G
+   5,R
+   3,R,J
+   8,R
+   2,R,D
+  10,D
+   2
+   6,D
    4,D,X
-   9,R
+  10,R,X
    1,R,J
-   1,R
-  10,R,D,X
-  13,L,D
-  20,R,D
+  15,R,D,X
+   6,R,D
+   6,L,D
+  16,R,D
    1,R,J
   14,R
   10,R,J
   21,R,D
-   1,R,J
-  14,R
-   2,R,J
+  18,R,J
   12,R,K,G
-  12,R,J,G
-   6,R,K,G
-   4,L,J
-   3,R,K
-   2,L,J
-   2,R,K
-   2,L,J
-   2,R,K
-   2,L,J
-   2,R,K
-   2,L,J
-   2,R,K
-   2,L,J
-   1,R,K
-  11,R
+   5,J,G
+   1,L,J
+   3,K
+   2,J
+   2,K
+   2,J
+   2,K
+   2,J
+   4,K
+   1,L,K
+   1,K
+   1,L,K
+   3,J
+   1,R,K,G
+   1,R,J,G
+   5,R,D
+   5,R,J
+  10,R,D
+   2,L,D
+  27,R,D
+  10,R,D,X
    1,R,J
-   4,R,D
-   3,D
-   4,L,D
-   1,D
-  30,R,D
+   4,R
   14,R,D,X
    1,R,J
   14,R,D,X
    1,R,J
   14,R,D,X
    1,R,J
-  14,R,D,X
-   1,R,J
-  12,R,D,X
-  40
+  11,R,D,X
+
+  40,R,D,X
 
 #lvl_Viv-0b
-   2,R,D,X
-  13,R,J
-  12,R,K,G
-  14,R,D,X
+
+   3,R,D,X
    1,R,J
-   3,R
-   2,G
+   4,D,X
+  10,R,U,X
+   1,R,J,G
+  13,R,G
   14,L,D,X
    1,L,J
   14,R,D,X
@@ -110,27 +108,25 @@ console load WinterCollab2021/1-Maps/Viv
    1,R,J
   16,R,D
    1,R,J
-  14,R
-   1,R,J
-  14,R
+  16,R
   13,R,J
+   1,R,K
+  12,R,J
   12,R,K,G
-  12,R,J,G
-   9,L,K
-   4,L
-  10,R,J
-   4,R,K
-  11,R
-   1,R,J
-  14,R
-  10,R,J
-  10,U,X
-   6
+   1,R,J,G
+   3,L,J,G
+   6,R,J,G
+  16,R,K,G
+   3,R,J,G
+  12,R
+  16,R,D,J
+  14,U,X
   18,R,J
-  11,L,K
+   8,L,K
   40
 
 #lvl_Viv-1
+
    5
    6,R,J
   10,R,D,X
@@ -200,9 +196,11 @@ console load WinterCollab2021/1-Maps/Viv
    2,J
   10,U,X
    5
+
   40
 
 #lvl_Viv-2
+
   12
   12,L,J,G
    8,L,K,G
@@ -254,9 +252,11 @@ console load WinterCollab2021/1-Maps/Viv
    7,L
   15,L,J
    6,R,K
+
   40
 
 #lvl_Viv-2a
+
   14,R
    3,R,J,G
   12,R,K,G
@@ -270,9 +270,11 @@ console load WinterCollab2021/1-Maps/Viv
    1,L,J
    4,L
    8,R,D,X
+
   40
 
 #lvl_Viv-3
+
   16,R,J
    1,R,K,G
   11,R
@@ -327,9 +329,11 @@ console load WinterCollab2021/1-Maps/Viv
    6,R
   23,R,D
    5,R,D,X
+
   40
 
 #lvl_Viv-4
+
    3
    8,R,J
    1,R,K,G
@@ -418,9 +422,11 @@ console load WinterCollab2021/1-Maps/Viv
    6,R,D,X
    1,R,J
    4,R
-  40
+
+  40,R
 
 #lvl_Viv-Interlude
+
    3,R
    1,R,J
   14,R
@@ -443,6 +449,7 @@ console load WinterCollab2021/1-Maps/Viv
   12,R,D
 
 #lvl_Viv-5
+
    1
    1,R,J
   23,D
@@ -569,9 +576,11 @@ console load WinterCollab2021/1-Maps/Viv
   21,R,D
    1,R,J
    7,R
+
   40
 
 #lvl_Viv-6
+
    7,R
    1,R,J
   14,R
@@ -659,9 +668,11 @@ console load WinterCollab2021/1-Maps/Viv
    2,R
    2,R,J,G
    7,R
-  40
+
+  40,R
 
 #lvl_Viv-7
+
    1,R
    1,R,J
    6,R
@@ -714,6 +725,7 @@ console load WinterCollab2021/1-Maps/Viv
   17,R,J
 
 #lvl_Viv-End
+
    1
    3,R,J
   16,R,D
@@ -736,3 +748,5 @@ console load WinterCollab2021/1-Maps/Viv
   10,L,X
   10,L
  134
+
+#2:07.517(7501)
