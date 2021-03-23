@@ -394,82 +394,66 @@ console load WinterCollab2021/1-Maps/Donker19
   21,L,G
   17,R,D
    5,R,U,X
-
-#AAAAAAAAAAAAAAAAAAAA
-#  90,R,U,G
-#   1,R
-#  11,L
-#  14,R
-#   4
-#   4,D
-#  15
-#   3,L
-#  15,U,X
-#   3,L
-#  22,L,U,G
-# 200,U,G
-
-  59,R,U,G
-   1,R
-  33,R,D
-  18,R
-  11,U,X
-  50,R,U,G
-   6,R,D
-   3,D
-  12,U,X
-  44,L,U,G
-   1,R
-  15,L
-   6,L,J,G
-  10,L
-   4,R
-   5,L,D
-   4,D
-  14,L,D,X
-   3
-   1,L,J,G
-  14,L,X
-   4,L,J
-   1,L,K
-  32,L,U,G
-   3,U,G
+  87,R,U,G
+   2,R
+  32,D
+  14
+   2,R
+   1
+  15,U,X
+   7,L
+   1
+  14,L,U,G
+  10,U,G
    1,L,U,G
+   5,U,G
+   8,L,U,G
+   1,R
+  20,L,X
+   4,L,J
+   5,L,K
+  15,L,D,K,G
+  12,L,D,G
+   5,D,G
+   1,L,D,G
    1,L
   15,U,X
    7,R
    1,L
    1,L,J
-   7,L
-   8,L,J
+   8,L
+   4,L,J
    4,D,X
   11,L,X
-   7
-   6,L,J,G
-   7,L
+   4,L
+   4
+   4,L,J,G
+   2,L
+   1,L,J,G
+   1,R
+   6,L
   10,L,D,X
   11,L,J
   14,L
    4,D,X
   11,L,X
-  14
-   8,L,J
+   2
+  10,L
+   6,L,J
    2,L
   15,L,X
-   5,L
-   2
-   5,L
+   8
+   3,L
    4,D,X
    1,L,J
-  18,L
+  18,L,D
   40
 
 #lvl_donker-end
   15,L,D,X
-  12,L,D
-   6,L,J
+  13,L,D
+   5,L,J
   27,L,U,X
-  61,L,D
-  22,D
+  82,L,D
    1,D,X
-  38,L,J
+  39,L,J
