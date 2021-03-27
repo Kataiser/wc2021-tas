@@ -52,17 +52,18 @@ console load WinterCollab2021/1-Maps/CarelessAnonymous_Marcossanches
    3,R,K
    6,R
   11,R,D
-  14,U,X
-  14,R,J
-  68,R,D,G
+  11,U,X
+  16,R,J
+  66,R,D,G
    1
-   3,R,D
-  10,D
+   4,R,D
+   6,D
    4,D,X
   10,R,X
-  33,R,J
-  19,R,X
-  13,R,G
+  34,R,J
+  17,R,X
+  14,R,G
+   3,R
    4,D,X
    5,R,J
    1,R,K,G
