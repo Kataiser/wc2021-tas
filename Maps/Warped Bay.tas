@@ -7,55 +7,50 @@ console load WinterCollab2021/1-Maps/DanTKO_Viv
   69
 
 #lvl_DanViv_Intro
+***s
    2,L,J
   14,R,D,X
-   2,R,J
-  17,R
-   7,R,J,G
+   3,R,J
+  16,R
+   5,R,J,G
   15,R
-  14,L,D,X
+  12,L,D,X
    1,R,J
    1,R,K
-  13,R,J
-   3,R,K,G
-  18,R,J,G
+   2,R
+   5,R,J,G
+   5,R,D,X
+   8,R,J,G
+   2,R,K,G
+  14,R
+   2
+   7,R,J
   15,R,D,X
    1,R,J
-   5,R
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   4,R,K
+   4,R,K,G
+   7,R,U,X
   40
 
-#lvl_DanViv_Tutorial
-   3,R,K
-   8,R
-   1,R,J,G
-   1,R
-   1,K,G
-   3,R,K
-   5,R
+#lvl_DanViv_Intro
+   1,R,U,X
+   1,L,K,G
    2,R,K
-   1,L
-  15,R,D
-   8,D
-   4,R,D
+   6,R
+   3,K,G
+   7,R,D
+   3,L,D
+  17,D
+   7,R,D
   15,R,D,X
   49,R,J
-   2,R,K,G
-   5,L,K,G
-   6,R,K,G
-   1,R
-   1,R,J,G
-   1,R,K,G
-   1,R,J,G
-   6,R
+  13,R,K,G
+   3,R,J,G
+  11,R
+   1,R,J
   10,R,D,X
    1,R,J
-   8,R
-  14,L,D,X
+   7,R
+  13,L,D,X
    1,R,J
    1,R,K
    1,R,J
