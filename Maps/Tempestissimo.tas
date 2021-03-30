@@ -125,6 +125,7 @@ console load WinterCollab2021/1-Maps/mintx
    1,R,J
    8,R,D,X
    1,R,J
+***s
   40
 
 #lvl_2.5
@@ -135,12 +136,27 @@ console load WinterCollab2021/1-Maps/mintx
   25,R,U,X
   10,L
   11,L,X
+
   37,R,D
   15,D,X
    3,R,D
    9,L,D
+***
    1,R,D
-  36,R
+   1,R
+
+#14.331(843)
+#  15,R
+#  15,R,X
+#  22,L,D
+#   6,D
+#   1,L,D
+#   1,D
+#   6,L,D
+#   2,L
+
+  35,R
+***
    4,D,X
    6,R
    3,R,J,G
@@ -153,8 +169,8 @@ console load WinterCollab2021/1-Maps/mintx
    4,R
    1,R,J
    5,R
-   9,R,J
-  16,R,D
+  18,R,J
+   7,R,D
    4,D,X
    3,R,J
   40
