@@ -202,23 +202,21 @@ console load WinterCollab2021/1-Maps/Donker19_RamenTwig
   11,R,J
   18,L,U,X
   12,L,U,C
-  26,R
-  27,U,G
-   7,R
+  27,R
+  16,U,G
+   5,R,U,G
+   7
   14,R,U,X
-  21,R,U,G
+  24,R,U,G
    1,L
-  22,R,D
+  28,R,D
+   1,R
    4,D,X
   11,R,X
-  15,D,C
-   3,R,D
-   4,D,X
-  10,R,J
-   4,R
-   9,R,J
-   1,J
-   8,R,J
+  10,R,D,C
+   7,R,J
+   3,R,K,G
+  18,R,J,G
   14,R,X
    9,R,J
    4,D,X
