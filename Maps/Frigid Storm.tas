@@ -179,6 +179,7 @@ console load WinterCollab2021/1-Maps/Marcossanches
    4
    1,R,J
    8,R,D,X
+***s
   40
 
 #lvl_a-02
@@ -528,7 +529,6 @@ console load WinterCollab2021/1-Maps/Marcossanches
    7,L
   15,L,C
   15,L
-***
    9,L,D
    3,R,D
    3,R
@@ -695,10 +695,6 @@ console load WinterCollab2021/1-Maps/Marcossanches
  104,D
    5,R
   14,R,J
-
-
-
-
    4,D,X
    7,R,X
    5,R,J
@@ -778,9 +774,6 @@ console load WinterCollab2021/1-Maps/Marcossanches
   15,R,D,X
    6,R,D
   11,L,D,X
-
-
-
    2,R,J
    1,R
    1,R,J
@@ -796,10 +789,6 @@ console load WinterCollab2021/1-Maps/Marcossanches
    3,J
   10,R,J
   13,R,U,X
-
-
-
-
    8,J,G
    2,L,J
   15,U,X
@@ -830,9 +819,6 @@ console load WinterCollab2021/1-Maps/Marcossanches
   15,U,X
   15,U,C
   15,R,X
-
-
-
    8,R
    4,L
   26,R
@@ -856,7 +842,6 @@ console load WinterCollab2021/1-Maps/Marcossanches
   43
 
 #lvl_a-05
-***
    1,R,J
   14,R,D,X
    1,R,J

@@ -209,8 +209,8 @@ console load WinterCollab2021/1-Maps/Viv
   25,L,J
   20,G
   15,R,J
-  10,R,U,X
-  18,R
+  15,R,U,X
+  13,R
   10,R,D,X
   20,R,J
   10,R,U,X
@@ -254,71 +254,48 @@ console load WinterCollab2021/1-Maps/Viv
    3,R,J,G
   12,R,K,G
   12,R
-  10,L,X
-   4,L
+  14,L,X
   26,R,D
-  13,D
-   2,L,J
-  26,L,D
-   1,L,J
-   4,L
-   8,R,D,X
-  40
+  11,D
+   2,L,D
+  10,R,D,X
+   6,L,J
+   5,L
+   4,J
+   9,R,D,X
+  43
 
 #lvl_Viv-3
-  16,R,J
-   1,R,K,G
-  11,R
-   1,X
- 137,U
-   1,O
-  18
-   8,J
-  11,R,X
-   2,R,J
-  10,R
-  39,L
-  15,L,D
-   1,L
-   1,L,D
-   1,L
-   1,L,D
-   1,L
-   1,L,D
-   1,L
-   1,L,D
-   1,L
-   3,L,D
-   1,L
-   4,D,X
-   6,R
-   9,R,D
-  19,L,D
-   9,R
-  13,R,D
-   8,J
-   4,D,X
-   6,R
-  20,L,D
-   6,D
-   5,R,D
-  10,D
-   2,L,D
-  10,L
-  32,L,J
-   1,R,K
-  28
-  12,L
-   1,L,J
-  10,L,X
-  13,R,D
-   1,R,J
-  10,D
-  36,R,D
-  21,D
-   4,D,X
-   6,R
+   6,R,D,X
+  27,L,D
   23,R,D
+  16,D
+  23,R,D
+   2,D
+   5,R,D
+  12,R,X
+   9,R,J
+   4,R
+   9
+   1,L,J
+   7,L
+  11
+   5,L
+   3,L,D
+   1
+   1,L
+   9,L,D
+   9
+  14,R
+  20,R,D
+  16,D
+   3
+   2,R
+   1,R,D
+   1,R
+   4,D,X
+  11,R,X
+  18,R,D
    5,R,D,X
   40
 
@@ -360,35 +337,43 @@ console load WinterCollab2021/1-Maps/Viv
   19,R
   12,R,J,G
    9,R,K,G
-  33,R,D
-  11,L,D
-  15,R,D,X
-  27,R,J
-  10,R,U,X
-   5,R
-   1,R,J,G
-   1,R,D
-  12,L,D
-  12,L
-   6,R
-  65
-   2,L
+  34,R,D
   10,L,D
-  15,L,D,X
-   6,L,J
-  31,L
-  12,L,J,G
-  12,L,K,G
-   6,L,J,G
-  12,L
+   1,R,D
+  13,R,D,X
+  12,R,J
+  15,R,U,X
+   3,R
+   1,R,J,G
    2,R
-   4,R,J
-  15,R,D
-  20,D
+   1,R,J,G
+   1,L,J
+   7,R
+   1,R,J
+   2,R
+  19,L
+   6
+   1,L
+   1
+   1,L
+  52
    2,L
-   3
+  12,L,D
+  14,L,D,X
+  17,L,J
+   5,J
+   2,L,J
+   2,L,K,G
+   1,J,G
+   2,L,J
+   6,L
+   3,R,J
+   4,R
+  25
+   8,D
+   4,L,D
    4,D,X
-   7,L
+   6,L,X
    8,R,J
   22,R,D
   10,R,X
@@ -403,12 +388,15 @@ console load WinterCollab2021/1-Maps/Viv
    7,L,K,G
    1,J
    5,L,J
-   4,R,J
-   8,R,K,G
+   3,R,J
+   1,R
+   1,R,K,G
+   3,L,K
+   4,R,K
    9,R
    1,R,J
-  11,R
-   6,R,D,X
+  10,R
+   7,R,D,X
    1,R,J
    4,R
   40
@@ -495,42 +483,44 @@ console load WinterCollab2021/1-Maps/Viv
   10,L,J
    6,L
    1,J
-   9,L,J
-  12,L
-   1,L,K,G
-  10,J,G
-  10,U,X
-  23,R,D
-   5,D
-   9,R,J
-  13,R
-   1,R,J,G
-   1,J
-   3,R,J
-   3,J
-   5,R,K
-   8,R
+   3,L,J
+  11,L,K,G
+  15,U,X
+   1,L
+   2,J,G
    2,R,J
-   8,R
-   1,J
-  10,L,J
-   1,J
-   5,L,K,G
-   5,R,J
-  10,R,U,X
-  15,R,D
+   9,R
    1,R,J
-  18,L,D
-   5,L,J
-  28,L,D
+   1,R
+   4
+   1,R
+   3,R,J
+  10,R
+   8,R,J
    1,L,J
-  20,D
-   9,R,D
-  20,D
-   4,L,D
-  18,D
-  10,L,U,X
- 125
+   3,K,G
+   4,R,K
+  10,R
+   7,R,J
+   4,D,X
+   4,U,X
+  25,R,J
+   2,R
+   1,R,J
+   1,R
+   4,L
+   1,L,J
+  10,L
+   5,L,J
+   1
+   1,L
+   1
+  26,L
+   2,R
+  16,R,D
+   2,L,D
+  38,D
+ 135,L,U,X
   20,L,D
   18,L,J
    8,L
@@ -656,60 +646,62 @@ console load WinterCollab2021/1-Maps/Viv
    1,R
    1,R,J
    6,R
-  10,R,X
-  33
+  43,R,X
    1,R
   10,R,D,X
   10,R,J
-   3,R,K,G
-   1,L
-  10,R,D,X
+   2,R,K,G
+   4,D,X
+  10,R,X
    1,R,J
-   4,R
   15,R,D,X
-   2,R
-  11,R,J
-  16,R,D
-  15,D
-  10,R,D,X
+   1,R,D
+  10,R,J
+   8,R
+   1,R,J
+  22,R,D
    7,R,J
-   6,R,K,G
-  10,R,D,X
-   1,R,J
-   4,R
+   4,D,X
+  10,R,X
+   2,R,J
+   1,R
   15,R,D,X
-   2,R
+   2,R,D
   11,R,J
   21,R,D
-  10,R,D,X
-   2,L,D
-  31,D
-  10,R,D,X
+   1,R,J
+   1,K
+   2,J,G
+   9,L,J
+  18,R,D,X
+   4,L
+  10,R,D,C
    1,R,J
    7,R
-  25,R,J
-  10,R,U,X
-   3,R
-   4,R,J,G
-  10,R,D
-   8,D
-  15,R,J
-  22,R
-  10,R,J
-  26,R,D
-  10,L,D,X
-   2,L
-   1,R,J
-   5,R
-  15,R,D,X
   17,R,J
+   7,R
+   4,D,X
+  10,R,U,X
+   1,R,J,G
+  10,R
+   4,R,J
+   8,R
+   2,R,J
+  14,R,D
+   7,R,J
+  25,R
+  12,L,D,X
+   3,R,J
+  15,R,D,X
+   1,R
+  19,R,J
 
 #lvl_Viv-End
    1
    3,R,J
   16,R,D
    1,L,J
-   1,L
+   2,L
   10,L,D,X
    3,L,J
    9,L
