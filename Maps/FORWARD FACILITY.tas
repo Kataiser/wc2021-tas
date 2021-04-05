@@ -7,7 +7,7 @@ console load WinterCollab2021/1-Maps/KAERRA
  190
 
 #lvl_intro
-   4,D,X
+   4,Z
    1,R,J
    7,R
    1,R,J
@@ -21,8 +21,7 @@ console load WinterCollab2021/1-Maps/KAERRA
    5,R
    1,R,J
   18,R,K,G
-   4,D,X
-  22,R,X
+  26,R,Z
    6,R,J
    4,R,K
    3,R
@@ -48,14 +47,13 @@ console load WinterCollab2021/1-Maps/KAERRA
    3,K
   15,R,X
    7,J
-   4,D,X
+   4,Z
    1,R,J
    8,R
    1,R,J
    1,J
    4,R
-   4,D,X
-  11,R,X
+  15,R,Z
    2,D
   14,R,D,X
    3,R,J
@@ -72,8 +70,7 @@ console load WinterCollab2021/1-Maps/KAERRA
    4,R
   21,R,X
   15,R
-   4,D,X
-   6,R,U,X
+  10,R,U,Z
    1,R,J,G
    1,L
    6,R
@@ -87,33 +84,30 @@ console load WinterCollab2021/1-Maps/KAERRA
    1,R,J
    8,R
    4,R,K,G
-   4,D,X
-  10,R,U,X
+  14,R,U,Z
   14,L,D,C
    4,R,J,G
    5,R
-   3,R,J
-  13,R
+   2,R,J
+  14,R
   22,R,X
    4,R,J
    1,R,K
-  11,R,X
-   9,R,J,G
+  12,R,X
+   1,R,J,G
+  10,R,K,G
   15,R,D,X
-   4,R
-   5,R,D
-   1,L,D
-   4,J,G
+   9,R
   18,R,U,X
   16,R,D,C
-   4,D,X
+   4,Z
    2,R,J
    8,R
   40
 
 #lvl_a01
    1,R,J
-   4,D,X
+   4,Z
    1,R,J
    7,R
    5,R,D
@@ -121,45 +115,49 @@ console load WinterCollab2021/1-Maps/KAERRA
    5,R
    2,R,J
    1,R
-   4,D,X
-  10,R,X
+  14,R,Z
    1,R,J
   11,R,D,X
    5,R,J,G
   21,R
    4,X
   13,D,X
-   4,D,C
-   7,R,C
+  11,R,Z
    1,R,J
    2,R
    1,R,J
-   4,D,X
-   3,R,U,X
+   7,R,U,Z
    1,R,J,G
    5,R,K,G
   22,R
    7,R,D
    1,L,D
    2,J,G
-  15,L,D,X
-   7,R,C
-   3,R,J,G
-  22,R
+   4,X
+  11,L,D,X
+   2,R
+   7,R,Z
+   3,R,J
+   3,R
+   1,R,J
+   1,J
+   5
+   3,R
+   1
+   1,R
+   2
   13,R,D,X
    6,R,J
    3,J
    8,R,J
    1,R
    3
-   4,D,X
-  10,R,U,X
+  14,R,U,Z
    1,R,J,G
    1,R,K,G
    9,R
   15,L,X
-   4,D,C
-  10,R,C
+  14,R,Z
   12,R,J
    4,R
    4
@@ -181,24 +179,18 @@ console load WinterCollab2021/1-Maps/KAERRA
    1,R,J
    3,J
    7,R,J
-   4,D,X
-  10,R,U,X
+  14,R,U,Z
    5,R,J,G
    8,R,D,X
    1,R,J,G
-   7,R,K,G
-   1,R
-   4,D,X
-  10,R,X
-   1,R,J
-   1,R
-   4,D,X
-   2,R,U,X
+   5,R,K,G
+   3,L
+  14,R,Z
+   2,R,J
+   6,R,U,Z
    1,R,J,G
    3,R,K,G
-   9,R
-   1,R,K
-  11,R,D
+  21,R,D
   11,R,U,X
    5,R,J
    3,R
@@ -210,14 +202,12 @@ console load WinterCollab2021/1-Maps/KAERRA
    2,J,G
    8,R,J
    7,L,J
-   4,D,X
-  10,R,U,X
+  14,R,U,Z
    4,R,J,G
    7,R
    4,R,J
   20,R,D
-   4,D,X
-   2,R,X
+   6,R,Z
    1,R,J
    3,R
   40
@@ -228,20 +218,16 @@ console load WinterCollab2021/1-Maps/KAERRA
    2,R
    1,R,D,J
   12,R,D,X
-  10,R,J
-   1,R
+  12,R,J
+  20,R,U,Z
+   8,R
    1,R,J
-  20,R,U,X
-   4,R,J
-   4,R
-   2,R,K
-   4,D,X
-   2,R,U,X
+   1,R
+   7,R,X
    1,R,J,G
    1,R,K,G
-  10,R
-   4,D,X
-   3,R,X
+  11,R
+   5,R,Z
    9,R,J,G
    1,R,K,G
   12,R
@@ -258,14 +244,12 @@ console load WinterCollab2021/1-Maps/KAERRA
    5,R
    2,R,J
   10,R
-   4,D,X
-  16,R,U,X
+  20,R,U,Z
    4,R,J
    5,R,K
    1,J
    4,L,K,G
-   4,D,X
-   2,L,X
+   6,L,Z
    4,R,J
    2
    2,R
@@ -275,8 +259,7 @@ console load WinterCollab2021/1-Maps/KAERRA
    6,R
    1,R,J,G
   25,R,D
-   4,D,X
-  28,R,X
+  32,R,Z
    4,R,J
    3,R,K
    4,R
@@ -325,8 +308,7 @@ console load WinterCollab2021/1-Maps/KAERRA
   15,D,X
    4,R,D
    1,R,D
-   4,D,X
-  10,R,X
+  14,R,Z
    3,R,J,G
    5,R
   16,R,J
@@ -334,34 +316,32 @@ console load WinterCollab2021/1-Maps/KAERRA
   12,R,U,C
   15,L,U,X
    1,R
-   4,D,C
-  10,R,C
+  14,R,Z
    1,R,J
    9,R,U,X
    3,R,J,G
   18,R,D
   15,R,U,X
-   4,D,C
-  10,R,C
+  14,R,Z
    7,R,J
-   3,R
-   1,R,J
-   3,R
-   1
-   5,R,J,G
-  24,R,X
+   4,R
+   3,R,J
+   1,J
+   9,R,K,G
+   5,R
+  18,R,Z
    4,R,J
-   4,D,X
-   3,R,X
-  11,R,J
-  20,R,D
+   1,R,K
+  18,R,D,X
+   1,R,J
+  13,R
   23,R,X
    5,J
    4,D,X
    2,R,X
-  13,R,J
-   4,D,X
-  10,R,U,X
+   5,R,J
+   8,R
+  14,R,U,Z
    1,R,J,G
   19,R,D
    6,D
@@ -476,8 +456,7 @@ console load WinterCollab2021/1-Maps/KAERRA
   11,L,U,X
    2,J
    2
-   4,D,X
-  12,R,X
+  16,R,Z
    4,R,J
    3,J
    1,R,J
@@ -487,8 +466,7 @@ console load WinterCollab2021/1-Maps/KAERRA
    3,R
   18,R,D,X
    4,R,J
-   4,D,X
-   3,R,X
+   7,R,Z
   10,R,J
    2,R
   15,R,D,X
@@ -496,8 +474,7 @@ console load WinterCollab2021/1-Maps/KAERRA
   14,R
    9,L,X
    7,J
-   4,D,X
-  12,R,X
+  16,R,Z
    4,R,J
    4,J
    7,R,K
@@ -506,8 +483,7 @@ console load WinterCollab2021/1-Maps/KAERRA
    3,R
   18,R,D,X
    5,R,D
-   4,D,X
-   2,R,X
+   6,R,Z
    2,R,J
    3,R
    2,R,J
@@ -517,14 +493,11 @@ console load WinterCollab2021/1-Maps/KAERRA
    4,R,J,G
    6,R
    3,R,J
-   1,R
-   1,R
-  13,R
+  15,R
    4,X
   16,R,U,X
    5,R
-   4,D,X
-   1,L,X
+   5,L,Z
    2,R,J
    1,R
    1
@@ -537,14 +510,12 @@ console load WinterCollab2021/1-Maps/KAERRA
    9,R
    1,R,J
   12,R,D
-   4,D,X
-  10,R,U,X
+  14,R,U,Z
   13,R,J
   15,L,X
   18,R,D,C
    4,R,D
-   4,D,X
-   3,R,X
+   7,R,Z
   10,R,J
    5,R
   15,R,D,X
@@ -562,8 +533,7 @@ console load WinterCollab2021/1-Maps/KAERRA
    3,R
    1,R,J,G
   17,R,D
-   4,D,X
-  62,R,X
+  66,R,Z
    4,R,J
    1,R,K
    1,R
@@ -580,7 +550,7 @@ console load WinterCollab2021/1-Maps/KAERRA
   14,R,J
   21,R,D,X
    6,R,J
-   4,D,X
+   4,Z
    2,R,J
    2,R
    1,R,J
@@ -589,8 +559,7 @@ console load WinterCollab2021/1-Maps/KAERRA
   15,U,X
    5,R
   11,L,X
-   4,D,C
-   7,R,C
+  11,R,Z
   15,L,U,X
   19,D
    1,L,D
@@ -603,21 +572,21 @@ console load WinterCollab2021/1-Maps/KAERRA
    1,R,K,G
    4,R,J,G
   11,L,X
-  11,R,C
+  11,R,Z
+  15,L,U,X
+  10,L,D
+   2,R,D
+   1,D
+   2,R,D
+   1,D
+   1,R,D
+   1,R
+   8,R
+   8,R,X
+   1,R,J,G
+  32,R,K,G
   11,L,X
-  15,D,C
-   5,D
-   5,L,D
-   3,L
-   1
-  10,L,D,X
-   3,R,J
-   4,R
-  10,R,D,X
-  29,R,J,G
-  11,L,X
-   4,D,C
-   7,R,C
+  11,R,Z
   15,L,D,X
    1,R
   14,U,C
@@ -637,8 +606,7 @@ console load WinterCollab2021/1-Maps/KAERRA
   15,D,X
   11,L,C
   11,R,X
-   4,D,C
-   7,L,C
+  11,L,Z
   11,R,U,X
    4,R,J,G
   11,R,X
@@ -669,43 +637,47 @@ console load WinterCollab2021/1-Maps/KAERRA
    5,R
    3,R,J
    2,R
-   4,D,X
-   4,L,X
+   4,Z
    1,R,J
-   6,R
-   7,R,J
+   8,R
+   2
   40
 
 #lvl_a08
-   4,R,J
-  15,R,D,X
-  10,R,D,J
-   4,R
-   4,D,X
-   3,R,U,X
+   2
+   1,R,J
+   8,R,D,X
+   1,R,J
+   3,R
+   1,R,J
+   3,R
+   7,R,D,J
+   5,R
+   2,R,J
+   1,R
+   8,R,U,Z
    1,R,J,G
-   8,R,J
+  10,R,K,G
   15,L,X
   20,R,C
   19,L,D,X
    5,R
   20,R,D,X
    5,R,J
-   4,D,X
-   5,R,X
+   9,R,Z
    4,R,J
    1,L,J
    1,L,K,G
    5,R,K
    2,R
    3
+   1,R,K
+   1,R,K
    1,K
-   2,R,K
   15,U,X
-   1,L
+   2,L
    6,J
-   4,D,X
-  10,R,X
+  14,R,Z
   10,R,J
   11,R
   14,R,X
@@ -713,8 +685,7 @@ console load WinterCollab2021/1-Maps/KAERRA
   14,L,X
   15,U,C
   14,R,X
-   4,D,C
-  10,R,C
+  14,R,Z
   13,R,J
    2,J
    1,R,J
@@ -738,15 +709,13 @@ console load WinterCollab2021/1-Maps/KAERRA
    4,L,J
    1,L,K
    1
-   4,D,X
-   7,U,X
+  11,U,Z
   10,J
    2
    1,R,J,G
    1,R,K,G
   30,R,D
-   4,D,X
-   2,R,X
+   6,R,Z
    1,R,J
    7,R
   40
@@ -755,8 +724,7 @@ console load WinterCollab2021/1-Maps/KAERRA
    1,R,J
   14,R,D,X
   10,R,J
-   4,D,X
-  11,R,U,X
+  15,R,U,Z
    1,J
    1,K
    4,R,K
@@ -775,58 +743,53 @@ console load WinterCollab2021/1-Maps/KAERRA
   15,L,U,C
   12,L,D,X
   15,U,C
-   4,D,X
-   6,R,X
+  10,R,Z
    4,R,J
    4,R
    2,R,J
    3,R
-   4,D,X
-  11,U,X
+  15,U,Z
    1,R
   18,J
-   4,D,X
-  10,R,X
-   4,R,J
+  14,R,Z
    2,R,J
+   1,J
+   1,R
+   1,R,J
    2,R
-   4,D,X
-  11,R,U,X
-   7
-  24,R,D
+  15,R,U,Z
+   1,R,J
+  27,R,D
   15,L,U,X
   12,L,D,C
   15,L,U,X
-   4,D,C
-   6,L,C
+  10,L,Z
    1,R,J
    9,R
    8,R,K,G
-   4,D,X
-  10,R,U,X
+  14,R,U,Z
    4,C
   21,L,D,C
    7,R
-   4,D,X
+   4,Z
   10,R,J
    3,R
    1,L,J
   36,L,D
   10,L,D,X
   18,R,J
-   4,D,X
-  10,U,X
+  14,U,Z
   12,R,J
   15,L,X
   24,R,D,C
-   7,R
-   4,D,X
-   5,R,J
-   5,R
-   1,R,K,G
-   8,R
-  14,R,U,X
-  19,R,C
+   5,R,D
+   6,R,Z
+   1,R,J
+   8,R,D
+   5,R,X
+   1,R,J,G
+  17,R,K,G
+  19,R,X
    4,R,J
    1,R,K
    7,L,X
@@ -865,8 +828,7 @@ console load WinterCollab2021/1-Maps/KAERRA
   14,R,D,X
    1,R,J
    2,R
-   4,D,X
-  10,R,X
+  14,R,Z
   15,R,J
   27,R,X
    4,R,J
@@ -879,8 +841,7 @@ console load WinterCollab2021/1-Maps/KAERRA
    8,R
    1,R,J,G
    4,R
-   4,D,X
-  29,R,X
+  33,R,X
    4,R,J
    1,R,K
    6,R
@@ -898,16 +859,14 @@ console load WinterCollab2021/1-Maps/KAERRA
    1,R,K,G
   25,R,D
    7,R
-   4,D,X
-  17,R,U,X
+  21,R,U,Z
    6,R,J
    1,R,K
    6,R,J,G
    2,R
   24,R,D,X
    4,R,J
-   4,D,X
-   3,R,X
+   7,R,Z
    6,R,J
    1,R
    1,R,J
@@ -915,8 +874,7 @@ console load WinterCollab2021/1-Maps/KAERRA
    8,R,K,G
    2,K
    2
-   4,D,X
-  18,R,X
+  22,R,Z
    4,J
    9,U,X
   16,R,J
@@ -931,8 +889,7 @@ console load WinterCollab2021/1-Maps/KAERRA
    1
   15,R,X
    6,R,J
-   4,D,X
-   1,R,X
+   5,R,Z
   14,R,J
    1,R
    1,R,J
@@ -949,14 +906,13 @@ console load WinterCollab2021/1-Maps/KAERRA
    5,R
    2,R,J
   11,R
-   1
-   6,R,J
-   4,D,X
-  10,R,X
-   1,R,J,G
-   9,R,K,G
-   9,K
-   3,J
+   1,L
+   3,J,G
+   4,R,J
+  13,R,Z
+   9,R,J,G
+   9,J
+   3,K
   13,L,U,X
    4,R,J
    6,R,D,X
@@ -970,7 +926,7 @@ console load WinterCollab2021/1-Maps/KAERRA
    4,C
   30,L,D,C
    5,R
-   4,D,X
+   4,Z
   12,R,J
    2,R
    1,R,J
@@ -1001,7 +957,7 @@ console load WinterCollab2021/1-Maps/KAERRA
   27,R,C
    4,R,J
    3,J
-   4,D,X
+   4,Z
    9,R,J
    3,R
   15,R,D,X
@@ -1019,12 +975,10 @@ console load WinterCollab2021/1-Maps/KAERRA
    7,L,C
    7,L,X
    7,L,C
-   4,D,X
-   3,L,X
+   7,L,Z
   27,L,C
    4,J
-   4,D,X
-   3,R,X
+   7,R,Z
    8,R,J
   13,R,D,X
    1,R,J,G
@@ -1039,19 +993,17 @@ console load WinterCollab2021/1-Maps/KAERRA
 #lvl_final
   10,R,U,X
    8,R
-   4,D,X
-  24,R,X
+  28,R,Z
    4,R,J
    4,R,K
    7,R
    3,R,K
    8,R
-   4,D,X
-  24,R,X
+  28,R,Z
    4,R,J
    6,R,K
   14,R,U,X
   65,D
   15
   56,L,D,X
-#112.931(6643)
+#112.489(6617)

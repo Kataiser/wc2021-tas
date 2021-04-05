@@ -361,12 +361,14 @@ console load WinterCollab2021/1-Maps/Banana23_mintx
   69
    5,L
    9,L,J
+   1,J
   15,U,X
-   3,L
-  20,R
-   5
-  15,R,U,X
-  28,L
+   1,L
+  10,R
+  14,R,U,X
+   1,R
+  14,R,U,X
+  25,L
   15,U,X
    6,L
    1,J
@@ -374,8 +376,8 @@ console load WinterCollab2021/1-Maps/Banana23_mintx
    7,L,U,X
   22,R
   15,R,X
-   5,R
-   9,L
+   4,R
+  10,L
   14,L,U,X
    9,L
   14,L,U,X
@@ -526,15 +528,18 @@ console load WinterCollab2021/1-Maps/Banana23_mintx
   33,R,J
   12,U,X
   31,L,J
-  15,R,J
-  14,R,X
-   1,R
+  26,R,J
+   2
+   2,R
   15,U,X
-  23,R
+   7,R
   15,R,U,X
-  18,R
-  16,D
-   8,R
+  14,R
+   9,D
+   1,L,D
+   8,D
+   4
+   7,R
   14,R,U,X
    5,R
   15,U,X
@@ -610,4 +615,4 @@ console load WinterCollab2021/1-Maps/Banana23_mintx
   84
   27,U,X
  121,D
-#110.211(6483)
+#109.871(6463)

@@ -8,20 +8,18 @@ console load WinterCollab2021/1-Maps/OkNano
 
 #lvl_Nano-intro
    4,D,X
-   3,R,X
+   2,R,J
+   8,R
+   1,R,J
+  12,R,D,X
+   2,R,J
+   4,R
    1,R,J
    7,R
-   1,R,J
-   1,R
-  12,R,D,X
-   1,R,J
-   4,R,K,G
-  11,R,D,X
-   1,R,J
-   5,R,K,G
-   1,K
-   4,R,J,G
-  21,R,D,X
+   4,R,J
+   2,R,K,G
+   2,R
+  22,R,D,X
   14,R,U,C
    5
    4,R,J
@@ -82,11 +80,12 @@ console load WinterCollab2021/1-Maps/OkNano
    7,R,J
   14,R,X
    4
-   5,D,X
+   4,R,J
+   1,D,X
    6,R,X
-  23,R,J
+  19,R,J
   14,U,X
-  11
+  10
   14,L,X
    4
    4,L,J
@@ -134,23 +133,23 @@ console load WinterCollab2021/1-Maps/OkNano
    7,L,J,G
    9,L
   10,L,D,X
-  19,R,J
-   6,R
-   4,D,X
-  10,R,U
-   3,R
-   2,J
+  22,R,J
+   2,R
+  15,R,U,X
+   3,L
   14,R,D,X
-  24,R,J
+  21,R,J
+   2,R
    8,U,X
    8
   21,D,X
   15,R,C
    7,R,J
   16,U,X
-  18,R,J
+  12,R,J
+   4,R
   14,U,X
-  19
+  20
   14,D,X
    4
   14,L,X
@@ -188,15 +187,17 @@ console load WinterCollab2021/1-Maps/OkNano
   10,R
   14,R,U,X
    2
-   4,R,J
-  11,R,K
-   6,R
+   7,R,J
+  12,R,K
+   2,R
   14,U,X
-   8
+   7
   11,R,C
    7,L,X
    4,L,J
-  19,L,K
+   1,L,K
+   6,L
+  12,L,J,G
    9,U,X
   15,L,J
    4,D,X
@@ -233,7 +234,7 @@ console load WinterCollab2021/1-Maps/OkNano
   14,U,X
   14
    4,D,X
-   6,R
+   6,R,X
    4,L,J
    4,L
    6
@@ -281,9 +282,9 @@ console load WinterCollab2021/1-Maps/OkNano
    8,R
   15,R,X
   15,U,C
-  23,R
+  23,R,D
    4,D,X
-   3,R
+   3,R,X
    1,R,J
    4,R
   40
@@ -333,31 +334,29 @@ console load WinterCollab2021/1-Maps/OkNano
    3,R,X
   22,R,J
    6,U,X
-  19,R,J
+  18,R,J
    4,D,X
   10,R
    4,R,J
-  14,R,D,X
    1,R
-   1,R,J
-   1,J
-   2
-  12,R,X
+  14,R,D,X
+   2,R
+   2,R,J
+   2,R
+  11,R,X
   10,R,J,G
-  17,R
+  16,R
    4,D,X
   10,R
    9
   14,R,D,X
-   6
-  12,R,D,X
-   1,R,J
-   5
    2,R
-   1,R,J
-   1,R
-   5,R,J
-  16,R,K,G
+  16,R,D,X
+   4,D,C
+   6,R,C
+   6,R,J
+   2,R
+  15,R,K,G
   10,U,X
   39,R,J
    4,D,X
@@ -407,4 +406,4 @@ console load WinterCollab2021/1-Maps/OkNano
    3,R,J
   12,R,U,X
  135
-#54.706(3218)
+#54.502(3206)
