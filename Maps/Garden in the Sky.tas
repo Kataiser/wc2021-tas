@@ -1,5 +1,4 @@
 #By gameprofi
-
 console load WinterCollab2021/1-Maps/CarelessAnonymous
    1
 
@@ -7,8 +6,7 @@ console load WinterCollab2021/1-Maps/CarelessAnonymous
  190
 
 #lvl_1
-   4,D,X
-   6,L,X
+  10,L,Z
    7,R,J
    7,R
   13,R,D,X
@@ -21,11 +19,9 @@ console load WinterCollab2021/1-Maps/CarelessAnonymous
    6,L
   14,R,X
   20,R,J
-   4,D,X
-   9,R,X
+  13,R,Z
   38,R,J
-   4,D,X
-   6,R,X
+  10,R,Z
    2,R,J
    4,R,K,G
    2,R
@@ -56,41 +52,37 @@ console load WinterCollab2021/1-Maps/CarelessAnonymous
    4,R,J,G
    9,R
    1,R,J
-   4,D,X
-  10,R,X
+  14,R,Z
   17,R,J
   47,R,J,G
   10,R,J
    5,L
-  18,R
+  19,R
    7,R,J
-  24,R,J,G
-   6,L,J,G
+  20,R,J,G
+   9,G
    1,R,J
-   4,D,X
-  11,R,X
-   2,R,J
-   4,D,X
-  11,R,X
-  12
-  15,L,U,X
-  10
-   6,R
-  16
-  13,L,G
+  15,R,Z
+   2,R
+   1
+   3,R,D,J
+   2,R
+   4
+   1,R
+  15,R,U,X
+  11
+  18,L
+  17,L,G
  110,L,J,G
    1,R
   10,L
-   4,D,X
-  10,L,U,X
+  14,L,U,Z
   24,L
   14,L,U,X
   38,R
-   4,D,X
-  10,R,X
+  14,R,Z
   35,R,J
-   4,D,X
-  10,R,X
+  14,R,Z
    7,R,J
   15,R,D,X
    2,R
@@ -135,8 +127,7 @@ console load WinterCollab2021/1-Maps/CarelessAnonymous
    2
   12,L,D,X
   37,R,J
-   4,D,X
-  11,R,U,X
+  15,R,U,Z
   22
   10,L,X
    2,R,J
@@ -189,15 +180,13 @@ console load WinterCollab2021/1-Maps/CarelessAnonymous
    7,L
   15,L,J
    9,L
-   4,D,X
-  14,L,U,X
+  18,L,U,Z
   15,L,C
    1,L
   10,R,X
    1,R,J
   21,J
-   4,D,C
-   7,L,C
+  11,L,Z
   15,L,J
    5,L
   15,L,D,X
@@ -211,28 +200,23 @@ console load WinterCollab2021/1-Maps/CarelessAnonymous
   63,L,U,J,G
    1,R
   23,L
-  13
-  18,R,J
-  15,U,X
-  26,R
-   2,R,D
-   4,D,C
-  11,R,C
+  10
    1,R
-  12,R,J,G
-   7,R,K,G
-   8,R,J,G
-   7,R
-   2,R,J
-   1,R
+   5
+   3,R
+  28,R,J
+  18,U,X
+   6,R
+  15,R,Z
+  11,R
+  10,R,J,G
+   5,R
   10,R,X
    4,R,J
    5,R
-   4,D,X
-  11,R,X
+  15,R,Z
   20,R
-   4,D,X
-   6,R,X
+  10,R,Z
   24,R,J
   15,U,X
    1,R
@@ -249,8 +233,7 @@ console load WinterCollab2021/1-Maps/CarelessAnonymous
    1,R,J
    7,R
    1,R,J
-   4,D,X
-   5,R,X
+   9,R,Z
   40
 
 #lvl_5
@@ -285,8 +268,7 @@ console load WinterCollab2021/1-Maps/CarelessAnonymous
    1,L
   20,R
    2,R,J
-   4,D,X
-   1,R,X
+   5,R,Z
    4,R,J
    1,R,K,G
   10,R
@@ -294,8 +276,7 @@ console load WinterCollab2021/1-Maps/CarelessAnonymous
   40
 
 #lvl_6
-   4,D,X
-  10,R,X
+  14,R,Z
    1,R,J
    7,R
    8,R,J
@@ -327,8 +308,7 @@ console load WinterCollab2021/1-Maps/CarelessAnonymous
    7,R
   15,R,U,X
   20,R
-   4,D,X
-   8,R,X
+  12,R,Z
   16,R,J
    1,R
   15,R,D,X
@@ -346,8 +326,7 @@ console load WinterCollab2021/1-Maps/CarelessAnonymous
    1,R,J,G
    1,R,K,G
    7,R
-   4,D,X
-   1,R,X
+   5,R,Z
    1,R,J
   12,R
   40
@@ -361,14 +340,12 @@ console load WinterCollab2021/1-Maps/CarelessAnonymous
    1,R
    4,R,J
   18,R,D,X
-   4,D,C
-   8,R,C
+  12,R,Z
    7,R,J
    5,R
    4,D,X
   11,R,U,X
   21
-
    4,L
   12,J
   67,L,U,J,G
@@ -424,8 +401,7 @@ console load WinterCollab2021/1-Maps/CarelessAnonymous
 
 #lvl_8
    5,R
-   4,D,C
-   2,R,C
+   6,R,Z
    1,R,J
   13,R
   14,R,J
@@ -441,8 +417,7 @@ console load WinterCollab2021/1-Maps/CarelessAnonymous
    7,R
   15
   18,R,D
-   4,D,X
-   9,R,X
+  13,R,Z
   15,R,J
   18,U,X
    6,R
@@ -464,11 +439,9 @@ console load WinterCollab2021/1-Maps/CarelessAnonymous
   23,R,G
    1,L
   24,R
-   4,D,X
-  10,R,X
+  14,R,Z
    1,R,J
-   4,D,X
-  10,R,X
+  14,R,Z
   40
 
 #lvl_9
@@ -495,11 +468,9 @@ console load WinterCollab2021/1-Maps/CarelessAnonymous
   12,R,J,G
    9,R,K,G
    7,R
-   4,D,X
-  10,R,X
+  14,R,Z
    1,R,J
-   4,D,X
-   7,R,X
+  11,R,Z
   40
 
 #lvl_10
@@ -535,8 +506,7 @@ console load WinterCollab2021/1-Maps/CarelessAnonymous
   23,G
   16,L,J,G
    1,R
-   4,D,X
-   6,L,X
+  10,L,Z
    5,L,J
    6,L,U,X
   65,L,G
@@ -552,8 +522,7 @@ console load WinterCollab2021/1-Maps/CarelessAnonymous
   29,D
    6,R,D
    4,R
-   4,D,X
-   6,R,X
+  10,R,Z
   38,R,J
   15,R,U,X
   38,R,G
@@ -569,8 +538,7 @@ console load WinterCollab2021/1-Maps/CarelessAnonymous
   10,R,D
    6,D
   12
-   4,D,X
-   6,R,X
+  10,R,Z
    5,R,J
    5,R,U,X
   35,R,G
@@ -630,8 +598,7 @@ console load WinterCollab2021/1-Maps/CarelessAnonymous
   14,L,X
    2,R,J
   10,J
-   4,D,X
-   6,R,X
+  10,R,Z
    1,R,J
    4,R
   17,R,D,X
@@ -688,4 +655,4 @@ console load WinterCollab2021/1-Maps/CarelessAnonymous
   75,L
    1,D,X
   46,L,J
-#120.751(7103)
+#120.343(7079)
