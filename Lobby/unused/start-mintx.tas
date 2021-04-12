@@ -1,14 +1,11 @@
-console load WinterCollab2021/0-Lobbies/1-Maps 4040 2832
+console load WinterCollab2021/0-Lobbies/1-Maps
    1
 
 #Start
   36
 
 #lvl_2-lobby
-   1,Q
-   1,J
-  32
-  14,L,Z
+   14,L,Z
    1,R,J
    6,R,D,X
    1,R,J,G
@@ -44,20 +41,15 @@ console load WinterCollab2021/0-Lobbies/1-Maps 4040 2832
    7,R
    7,R,J
   15,R,D,X
+   1,R,J
+  15,R,D,X
+  12,R,D
+   6,D
    3,R,J
-   5,R
-   1,R,J
-   1,R
-   1,R,J
-   2,R
+   1,R,K,G
+  13,R
    1,R,J
    3,R
-  13,R,U,X
-   2,R,J,G
-   5,R
-   2,R,J
-   4,R
-  11,R,J
-   8,R
+  15,R,D,C
    1,X
-#5.984(352)
+#6.069(357)

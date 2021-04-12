@@ -7,8 +7,7 @@ console load WinterCollab2021/0-Lobbies/0-Prologue
   76
 
 #lvl_0-lobby
-   4,D,X
-   2,R,X
+   6,R,Z
    1,R,K
    7,R
    2,R,J
@@ -67,8 +66,7 @@ console load WinterCollab2021/0-Lobbies/0-Prologue
   18,L,J
    5,L,K,G
    7,L
-   4,D,X
-   2,L,X
+   6,L,Z
    1,L,J
    7,L
    1,L,J

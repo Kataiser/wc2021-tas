@@ -72,8 +72,7 @@ console load WinterCollab2021/1-Maps/RamenTwig
   15,R,U,C
    4,U
   15,L,D,X
-   4,D,C
-  11,R,C
+  15,R,Z
    7,L,X
    1,L,J
   10,L
@@ -123,8 +122,7 @@ console load WinterCollab2021/1-Maps/RamenTwig
    1,R
   13,R,D
   26,R
-   4,D,X
-   8,R,U,X
+  12,R,U,Z
    1,J
    4,R,J
    1,J
@@ -169,8 +167,7 @@ console load WinterCollab2021/1-Maps/RamenTwig
    6
    1,R,G
    3,R,J,G
-   4,D,X
-  14,R,U,X
+  18,R,U,Z
   39,R
   15,R,D,X
    1,R
@@ -200,8 +197,7 @@ console load WinterCollab2021/1-Maps/RamenTwig
    1,J,G
    2,R
    1
-   4,D,X
-   9,R,U,X
+  13,R,U,Z
    1,L,J,G
    7,R,J
    7,R
@@ -285,8 +281,7 @@ console load WinterCollab2021/1-Maps/RamenTwig
    1,K
   11,D
    4,L,D
-   4,D,X
-  10,L,X
+  14,L,Z
    1,L,J
    1,L
    8,L,D,X
@@ -387,8 +382,7 @@ console load WinterCollab2021/1-Maps/RamenTwig
    1,J,G
   15,R,D,X
    6,R,D
-   4,D,X
-   5,R,U,X
+   9,R,U,Z
    3,J,G
   40
 
@@ -398,8 +392,7 @@ console load WinterCollab2021/1-Maps/RamenTwig
    5,R
    2,R,J
    4,R
-   4,D,X
-   7,R,U,X
+  11,R,U,Z
    1,L,J,G
    4,R,J
    1
@@ -425,13 +418,11 @@ console load WinterCollab2021/1-Maps/RamenTwig
   14,R,X
    6,R,J
    2,J
-   4,D,X
-  10,R,U,X
+  14,R,U,Z
   54
    1,R,X
   17
-   4,D,X
-   4,U,X
+   8,U,Z
    1,L
   22,R
   15,D,X
@@ -444,8 +435,7 @@ console load WinterCollab2021/1-Maps/RamenTwig
    2,D
    1,R,D
   39,R
-   4,D,X
-  10,R,U,X
+  14,R,U,Z
    5,R,J,G
    5,R
    2,R,J
@@ -499,8 +489,7 @@ console load WinterCollab2021/1-Maps/RamenTwig
    4,J
   19,R
    4,R,D
-   4,D,X
-   8,R,X
+  12,R,Z
    1,R,J
    5,R,K,G
    5,R,J,G
@@ -533,7 +522,7 @@ console load WinterCollab2021/1-Maps/RamenTwig
   25,L,D
    1,L
    1,L,D
-   4,D,X
+   4,Z
    1,R,J
    1,R,K,G
    1,R,J,G

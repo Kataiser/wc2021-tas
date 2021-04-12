@@ -9,7 +9,7 @@ console load WinterCollab2021/0-Lobbies/1-Maps 1736 2488
   15,L,U,X
    5,L
    4
-   4,D,X
+   4,Z
    6,L,J
    5,L,K,G
   12,L
@@ -25,8 +25,7 @@ console load WinterCollab2021/0-Lobbies/1-Maps 1736 2488
   15,U,X
   10,L
    8,L,J
-   4,D,X
-   4,L,X
+   8,L,Z
    1,L,J
    7,L
    3,L,J

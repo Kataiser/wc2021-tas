@@ -53,8 +53,7 @@ console load WinterCollab2021/1-Maps/Cabob
    2,R,K
    6,R
   18,U,X
-   4,D,C
-  11,R,C
+  15,R,Z
   13,R
   39,R
   15,R,X
@@ -66,8 +65,7 @@ console load WinterCollab2021/1-Maps/Cabob
   15,R,D,X
    2,R
   27,R,J
-   4,D,X
-  10,R,X
+  14,R,Z
    7,R,J
    1,J
    1,R,J
@@ -84,7 +82,7 @@ console load WinterCollab2021/1-Maps/Cabob
    1,R,J,G
    2,R,K,G
   11,R
-   4,D,X
+   4,Z
    2,R,J
    4,R
   40
@@ -94,7 +92,7 @@ console load WinterCollab2021/1-Maps/Cabob
    1,R
    1,R,J
    2,R
-   4,D,X
+   4,Z
    1,R,J
    6,R
    6,R,J
@@ -104,8 +102,7 @@ console load WinterCollab2021/1-Maps/Cabob
    4,R,D
   15,R,X
    4,R
-   4,D,X
-   9,R,X
+  13,R,Z
   21,R,J
   13,U,X
   18,L,J
@@ -116,8 +113,7 @@ console load WinterCollab2021/1-Maps/Cabob
   14,L,J
   15,L,X
    5,L,J
-   4,D,X
-   2,L,X
+   6,L,Z
    6,L,J
    1,L
    2,L,J
@@ -127,8 +123,7 @@ console load WinterCollab2021/1-Maps/Cabob
    4,D
    3,R,D
   32,R
-   4,D,X
-  23,R,X
+  27,R,Z
   25,D,C
    2,L,D,X
   16,R,D
@@ -140,20 +135,18 @@ console load WinterCollab2021/1-Maps/Cabob
    1,R,J
    8,R
    1
-   4,D,X
-  10,R,U,X
+  14,R,U,Z
   45,R
   15,U,X
   13,U,C
   13,R
-   4,D,X
-   6,L,X
+  10,L,Z
   30,R,J
   15,R,X
    9,R
    1,R,J,G
    7,R
-   4,D,X
+   4,Z
    1,R,J
    7,R
   40
@@ -172,22 +165,20 @@ console load WinterCollab2021/1-Maps/Cabob
 #more height and
 #saves one frame
    2
-   4,D,X
-  25,R,U,X
+  29,R,U,Z
   15,L,U,C
   18,R,X
    5,R,J
    1,J
    1,R,J
-   4,D,X
+   4,Z
   13,R,J
    2,R
    1,R,J
   12,R
   30,R,U,X
    4,R,J
-   4,D,X
-   3,R,X
+   7,R,Z
   11,R,J
   21,R
    3,R,D
@@ -203,8 +194,7 @@ console load WinterCollab2021/1-Maps/Cabob
   21,L,D
    3,L,D
    4,D
-   4,D,X
-  11,L,X
+  15,L,Z
    1
   15,D,C
    3,L
@@ -237,7 +227,7 @@ console load WinterCollab2021/1-Maps/Cabob
    7,R
   15,R,U,X
    9,R
-   4,D,X
+   4,Z
    2,R,J
    7,R
   40
@@ -274,8 +264,7 @@ console load WinterCollab2021/1-Maps/Cabob
   24,R,J
   23,U,X
    5,R
-   4,D,C
-  11,R,C
+  15,R,Z
   34,R
   10,D,X
   56,R
@@ -285,7 +274,7 @@ console load WinterCollab2021/1-Maps/Cabob
    1,J
    1,K,G
    7,R
-   4,D,X
+   4,Z
    1,R,J
    6,R
    1,R,J
@@ -295,8 +284,7 @@ console load WinterCollab2021/1-Maps/Cabob
   12,R,J
    1,J
    1,R,J
-   4,D,X
-  22,U,X
+  26,U,Z
   12,R
    1
   11,R,X
@@ -311,22 +299,19 @@ console load WinterCollab2021/1-Maps/Cabob
    2,D
    1,L,D
    1,D
-   4,D,X
-  10,L,X
+  14,L,Z
   58,R,D
   28,R,X
   18,U,C
    6,R
-   4,D,X
-   6,R,X
+  10,R,Z
   26,L,J
   26,L,U,X
   16,R,U,C
    7,R,J
-   4,D,X
+   4,Z
   22,R,J
-   4,D,X
-  11,R,U,X
+  15,R,U,Z
    7,L,J
   21,L
   13,L,X
@@ -357,8 +342,7 @@ console load WinterCollab2021/1-Maps/Cabob
    9,L
    1,L,J
    8,L,D
-   4,D,X
-  12,L,U,X
+  16,L,U,Z
    9,L,U,C
   16,L,D,X
    4,L,J
@@ -370,8 +354,7 @@ console load WinterCollab2021/1-Maps/Cabob
    3,R
   25,R,X
    4,L,G
-   4,D,X
-  20,L,X
+  24,L,Z
    4,L,J
    2,L,K
    5,L
@@ -379,7 +362,7 @@ console load WinterCollab2021/1-Maps/Cabob
   33,U,X
   24,L,C
    7,L,J
-   4,D,X
+   4,Z
   12,L,J
    1,L
    2,L,J
@@ -388,13 +371,11 @@ console load WinterCollab2021/1-Maps/Cabob
    8,L
   18,L,X
   15,U,C
-   4,D,X
-  11,L,X
+  15,L,Z
   10,L,D
   11,D,X
   43,L
-   4,D,X
-  10,L,X
+  14,L,Z
    1,L,J
   10,L,D,X
   40
@@ -411,14 +392,12 @@ console load WinterCollab2021/1-Maps/Cabob
   27,L,C
    4,L,J
    3,L,K
-   4,D,X
-   4,U,X
+   8,U,Z
   47,L
    2
    1,L
    2
-   4,D,X
-  19,U,X
+  23,U,Z
   19,R,C
    4,R,J
   10,R,K
@@ -429,7 +408,7 @@ console load WinterCollab2021/1-Maps/Cabob
    8,R
    7
    5,D
-   4,D,X
+   4,Z
   23,R
   15,R,U,X
   11,R
@@ -510,23 +489,20 @@ console load WinterCollab2021/1-Maps/Cabob
    2,R,D
   12,R,X
    6,R,J
-   4,D,X
-   1,R,X
+   5,R,Z
    2,R,J
    1,R
    5,L
    1,L,J
   25,L,D
-   4,D,X
-  12,L,X
+  16,L,Z
   46,L,D
   16,R,D
   10,R,D,X
   10,L,J
    1,J
    1,L,J
-   4,D,X
-  16,U,X
+  20,U,Z
    7,L,J
    1,J
    5,L,J
@@ -550,8 +526,7 @@ console load WinterCollab2021/1-Maps/Cabob
    2,L
    1
    8,L
-   4,D,X
-   2,L,U,X
+   6,L,U,Z
   40
 
 #lvl_a-09
@@ -561,13 +536,11 @@ console load WinterCollab2021/1-Maps/Cabob
    5,L,K
   23,L,U,X
    4,L,J
-   4,D,X
-   6,L,X
+  10,L,Z
   19,L,J
   22,L,D,X
    4,L
-   4,D,X
-   6,L,X
+  10,L,Z
   19,L,J
   13,L
   10,R,D,X
@@ -575,8 +548,7 @@ console load WinterCollab2021/1-Maps/Cabob
    1,J
    1,L,J
    1,J
-   4,D,X
-  14,U,X
+  18,U,Z
   12,U,C
   17,R
    1
@@ -589,11 +561,9 @@ console load WinterCollab2021/1-Maps/Cabob
    8,D
    3,L,D
   32,R
-   4,D,X
-   6,R,U,X
+  10,R,U,Z
   36,R
-   4,D,X
-  14,R,U,X
+  18,R,U,Z
    5,R,J
   21,R,K
   10,L,U,X
@@ -605,16 +575,14 @@ console load WinterCollab2021/1-Maps/Cabob
    7,L,K,G
    2,R,K
    1,R
-   4,D,X
-  10,L,X
+  14,L,Z
    8,L,J
   20,L,K
   15,L,U,X
    1
    1,L
   38,L
-   4,D,X
-  11,L,U,X
+  15,L,U,Z
    9
    2,K
    7,L,K
@@ -631,8 +599,7 @@ console load WinterCollab2021/1-Maps/Cabob
    2,J
    5
    6,J
-   4,D,X
-  10,R,U,X
+  14,R,U,Z
    1,J,G
    1,K
   40
@@ -643,8 +610,7 @@ console load WinterCollab2021/1-Maps/Cabob
    1,K,G
    1,R
    4,R,J,G
-   4,D,X
-  10,R,U,X
+  14,R,U,Z
   12,R,J,G
    8,R,J
    2,R
@@ -655,8 +621,7 @@ console load WinterCollab2021/1-Maps/Cabob
    3,R,J
    3,R,D
   24,L,D
-   4,D,X
-  11,R,X
+  15,R,Z
   19,R,C
    4,R,J
   25,R,K
@@ -668,18 +633,15 @@ console load WinterCollab2021/1-Maps/Cabob
    2,U,C
    4,U,X
    9,L
-   4,D,X
-   9,L,X
+  13,L,Z
   10,R,J
    8,R
   34,R,J
-   4,D,X
-  11,R,U,X
+  15,R,U,Z
   13,R
   15,R,X
   16,R,D
-   4,D,X
-  11,R,X
+  15,R,Z
   18,L,D
    6,R,D
    1,R,D
@@ -690,8 +652,7 @@ console load WinterCollab2021/1-Maps/Cabob
    2,R
    2
    3,R
-   4,D,X
-  10,R,X
+  14,R,Z
    1,R,J
    3,R
    1,R,J

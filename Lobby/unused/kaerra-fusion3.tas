@@ -1,0 +1,52 @@
+# for the cutscene
+# fuck this cutscene
+Unsafe
+console clrsav
+console load WinterCollab2021/1-Maps/Jackal 13514 -1437
+   1
+  36
+  15,L,X
+ 225
+
+console load WinterCollab2021/1-Maps/KAERRA 21001 -38
+   1
+  15,D,X
+ 225
+
+console load WinterCollab2021/0-Lobbies/1-Maps 3312 2400
+   1
+
+#Start
+  36
+
+#lvl_2-lobby
+   7,R,J
+   5,R,Z
+   1,R,J
+   7,R
+   2,R,J
+   1,R
+  15,R,D,X
+   3,R,J
+   5,R,D,X
+   9,R,J,G
+   5,R
+   1,R,J
+   3,R
+   7,R,J
+   2,R,K,G
+   8,R,D,X
+   1,S
+   1,D,J
+  34
+   1,R,J
+  14,R
+   1,R,J
+  14,R
+   1,R,J
+  14,R
+   1,R,J
+  20,R
+  15,R,C
+   1,X
+#3.128(184)

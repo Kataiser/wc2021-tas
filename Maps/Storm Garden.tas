@@ -1,11 +1,10 @@
 #By Wakey and TheRoboMan
 
 console load WinterCollab2021/1-Maps/CarelessAnonymous_Marcossanches
-   1
+   2
 
 #Start
-  33
-
+  32
 #lvl_1
   11,L,J
   12,U,X
@@ -325,8 +324,7 @@ console load WinterCollab2021/1-Maps/CarelessAnonymous_Marcossanches
   20,L,D
    3,R,D
    8,R
-   4,D,X
-  11,R,U,X
+  15,R,U,Z
    3,R
   15,R,X
   18,L,D,C

@@ -7,8 +7,7 @@ console load WinterCollab2021/1-Maps/Bissy_Indecx
   91
 
 #bindy_0
-   4,D,X
-   6,R,X
+  10,R,Z
    8,R,J
    1,R
    2,R,J
@@ -39,7 +38,7 @@ console load WinterCollab2021/1-Maps/Bissy_Indecx
    5
    3,L
    1
-   4,D,X
+   4,Z
    1,R,J
   12,R
    1,R,J
@@ -65,8 +64,7 @@ console load WinterCollab2021/1-Maps/Bissy_Indecx
    1,R,J
    5,R
   13,L,D
-   4,D,X
-  11,L,X
+  15,L,Z
    7,L
    1,G
   18,D
@@ -84,16 +82,14 @@ console load WinterCollab2021/1-Maps/Bissy_Indecx
   15,R,D,X
    3,R
    3,D
-   4,D,X
-   5,R,U,X
+   9,R,U,Z
    1,J,G
    1
   24,R,D
    1,D
    6,R,D
   11,R,J
-   4,D,X
-  10,R,X
+  14,R,Z
    1,R,J
   10,R,D,X
    1,R,J
@@ -114,8 +110,7 @@ console load WinterCollab2021/1-Maps/Bissy_Indecx
   11,R
    9,L,D,X
   10,R
-   4,D,X
-  11,R,X
+  15,R,Z
    3
    1
   15,U,X
@@ -130,8 +125,7 @@ console load WinterCollab2021/1-Maps/Bissy_Indecx
    7,J
    2,R,J
    2
-   4,D,X
-   2,R,U,X
+   6,R,U,Z
    1,R,J
    7,R
   27,G
@@ -237,8 +231,7 @@ console load WinterCollab2021/1-Maps/Bissy_Indecx
    2,R,J,G
    1,R,K,G
    7,R
-   4,D,C
-   2,R,C
+   6,R,Z
    1,R,J
    7,R
    1,R,J
@@ -250,8 +243,7 @@ console load WinterCollab2021/1-Maps/Bissy_Indecx
   15,D,X
    5
    1,R
-   4,D,X
-   6,L,X
+  10,L,Z
    1,R,J
    3,R
    1,R,J
@@ -286,15 +278,13 @@ console load WinterCollab2021/1-Maps/Bissy_Indecx
   15,D,X
    9
    2,L
-   4,D,X
-   2,L,X
+   6,L,Z
    1,R,J
    2
    4,R
    1
    9,R,J
-   4,D,X
-  10,R,U,X
+  14,R,U,Z
    1,L,J,G
   11,R,J
    1
@@ -307,8 +297,7 @@ console load WinterCollab2021/1-Maps/Bissy_Indecx
    1,R,J
    6,J
    1,R,J
-   4,D,X
-  10,U,X
+  14,U,Z
   14,L,J
   20,L
   17,U,X
@@ -350,8 +339,7 @@ console load WinterCollab2021/1-Maps/Bissy_Indecx
    2,R
    1,R,J,G
   11,R,K,G
-   4,D,X
-  11,R,U,X
+  15,R,U,Z
   12,L,J,G
    3,K,G
    7
@@ -364,7 +352,7 @@ console load WinterCollab2021/1-Maps/Bissy_Indecx
   15,U,X
    1,R,J,G
    7,R
-   4,D,X
+   4,Z
    2,R,J
    3,R
    5,R,J
@@ -375,8 +363,7 @@ console load WinterCollab2021/1-Maps/Bissy_Indecx
    1,R
   10,R,D
    4,R,J
-   4,D,X
-  10,R,U,X
+  14,R,U,Z
    1,J
   14,R
   18,R,D,X
@@ -384,15 +371,13 @@ console load WinterCollab2021/1-Maps/Bissy_Indecx
    1,R,D
    1,R
    3,R,D
-   4,D,X
-  11,R,U,X
+  15,R,U,Z
    6,R
   12,L
    1,G
   10,J,G
    7,L
-   4,D,X
-   9,L,X
+  13,L,Z
    1,J
    1,L,K,G
   18,R,X
@@ -400,8 +385,7 @@ console load WinterCollab2021/1-Maps/Bissy_Indecx
    4,D
    2
    1,R
-   4,D,X
-   8,L,X
+  12,L,Z
    1,R,J
    3,R
    1,R,J
@@ -412,8 +396,7 @@ console load WinterCollab2021/1-Maps/Bissy_Indecx
    1
    1,L
    6
-   4,D,X
-  14,U,X
+  18,U,Z
    1,R
   15,U,X
    2,L
@@ -429,8 +412,7 @@ console load WinterCollab2021/1-Maps/Bissy_Indecx
 #lvl_bindy_6
   11,R
   11,R,J,G
-   4,D,X
-   5,R,X
+   9,R,Z
    1,R,J
    3,R
    1,R,J
@@ -514,8 +496,7 @@ console load WinterCollab2021/1-Maps/Bissy_Indecx
    3,R
    9,L
    2
-   4,D,X
-   1,L,X
+   5,L,Z
    1,R,J
    4,R
    4,R,J
@@ -535,8 +516,7 @@ console load WinterCollab2021/1-Maps/Bissy_Indecx
    2,R,D
    2,R,J
    3,J
-   4,D,X
-  11,R,U,X
+  15,R,U,Z
    9,R
    1,G
    3,R,J,G
@@ -554,8 +534,7 @@ console load WinterCollab2021/1-Maps/Bissy_Indecx
   15,D,X
   11,R,U,C
   11,R
-   4,D,X
-   6,R,X
+  10,R,Z
    6,R,J
    3,R
    2,R,J
@@ -566,8 +545,7 @@ console load WinterCollab2021/1-Maps/Bissy_Indecx
   15,L,D,C
   10,L,D
   10,R
-   4,D,X
-  11,R,X
+  15,R,Z
    6,R
   15,R,U,X
    9,R
@@ -598,8 +576,7 @@ console load WinterCollab2021/1-Maps/Bissy_Indecx
    4,R,D
   10,D
    5,R,D
-   4,D,X
-   2,R,U,X
+   6,R,U,Z
    1,L
    3,J,G
    3,R,J
@@ -617,8 +594,7 @@ console load WinterCollab2021/1-Maps/Bissy_Indecx
   15,R,X
   20,L,D
   26,R
-   4,D,X
-  11,R,X
+  15,R,Z
    5,R
    6,R
   15,R,X
@@ -654,8 +630,7 @@ console load WinterCollab2021/1-Maps/Bissy_Indecx
    2,R
    2,R,D
   19,R,J
-   4,D,X
-  10,R,X
+  14,R,Z
    2,R,J
    1,R
    1,R,J
@@ -663,13 +638,12 @@ console load WinterCollab2021/1-Maps/Bissy_Indecx
    1,G
    1,J,G
   12,L,K
-   4,D,X
-  10,R,X
+  14,R,Z
    1,R,J
   32,R,D,C
   12,R,J,G
   19,R
-   4,D,X
+   4,Z
    1,L,J
   80,L,D
 #67.167(3951)

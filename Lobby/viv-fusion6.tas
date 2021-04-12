@@ -6,7 +6,7 @@ console load WinterCollab2021/1-Maps/Viv 277 424
    1
   36
   20,R
-   4,D,X
+   4,Z
    6,L
    1,L,J
   20,D
@@ -21,26 +21,30 @@ console load WinterCollab2021/1-Maps/DanTKO 8968 -784
 
 console load WinterCollab2021/0-Lobbies/1-Maps 2088 3040
    1
+  36
+  15,D,X
+play,lvl_2-lobby
 
 #Start
   36
-***
 #lvl_2-lobby
-   4,D,X
-   1,R,X
    1,L,J
-  12
-  10,L,D,X
-   5,R,J
-  15,D,X
-   6,R
-   1,R,J
+  14,L
+   2,L,J
+   5,L
+   1,L,J
+   5,L
+   3,R
+  15,R,D,X
+  10,L,D
+  16,R,D
+   2,R,J
   15,D,X
    1,R
   13,R,D
    5,D
-   4,R,D
-  15,L,D
+   3,R,D
+  16,L,D
    1,S
    1,D,J
   34
@@ -48,16 +52,6 @@ console load WinterCollab2021/0-Lobbies/1-Maps 2088 3040
   15,L,D,X
    2,D
    5,L,D
-#  22,R,D
-#   3,D
-#  14,R,D,X
-#   1,R,J
-#   1,R,K
-#   1,R,J
-#  11,R
-#   1,X
-# waterboost 2f slow
-
   13,R,D
   10,L,D,X
    1,R,J
@@ -66,4 +60,6 @@ console load WinterCollab2021/0-Lobbies/1-Maps 2088 3040
    9,R,D
    3,R
    1,X
-#3.434(202)
+#3.808(224)
+#don't forget to 
+#subtract 15f

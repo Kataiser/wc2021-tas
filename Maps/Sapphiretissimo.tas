@@ -2,13 +2,18 @@
 
 console load WinterCollab2021/1-Maps/Banana23_mintx
    1
+play,lvl_a-01
 
 #Start
-  94
+#postcard menuing
+unsafe
+ 124
+   1,J
+ 136
 
 #lvl_a-01
-   4,D,X
-   2,L,X
+  94
+   6,L,Z
    1,R,J
    5,R
    1,R,J
@@ -66,7 +71,7 @@ console load WinterCollab2021/1-Maps/Banana23_mintx
   11,J,G
    1,R,J
    7,R
-   4,D,X
+   4,Z
    4,R,J
   40,J
 
@@ -74,18 +79,15 @@ console load WinterCollab2021/1-Maps/Banana23_mintx
    6,R,J
    9,R
   16,L,D
-   4,D,X
-  11,L,X
+  15,L,Z
   10,L
    1,G
   20,R,D
    2,R
-   4,D,X
-  11,R,X
+  15,R,Z
    4
    3,R
-   4,D,X
-  11,R,X
+  15,R,Z
   10,U,C
   12,R
   15,R,D,X
@@ -103,7 +105,7 @@ console load WinterCollab2021/1-Maps/Banana23_mintx
    3,R
    5,L
    2,L,D
-   4,D,X
+   4,Z
   11,R,U
    9,L
   13,L,J,G
@@ -114,15 +116,14 @@ console load WinterCollab2021/1-Maps/Banana23_mintx
    1,R,K,G
    1,R,J,G
    7,R
-   4,D,X
+   4,Z
    3,R,J
   40
 
 #lvl_a-02
    1,R
   18,L,D
-   4,D,X
-  11,R,X
+  15,R,Z
   19,L,D
    1,D
   39,R
@@ -190,8 +191,7 @@ console load WinterCollab2021/1-Maps/Banana23_mintx
    3,R
    1,J
   10,R,D
-   4,D,X
-   8,R,X
+  12,R,Z
    1,R,J
    4,R
   40
@@ -224,8 +224,7 @@ console load WinterCollab2021/1-Maps/Banana23_mintx
    3,R
    5,R,J
   18,R
-   4,D,X
-  11,R,U,X
+  15,R,U,Z
    2,L,J,G
    7,R,J
    7
@@ -283,13 +282,11 @@ console load WinterCollab2021/1-Maps/Banana23_mintx
   19,R,D
   41
   18,R
-   4,D,X
-  11,R,X
+  15,R,Z
   45,R
   41
    3,R
-   4,D,X
-  10,R,X
+  14,R,Z
    3,R,J
   15,R,D,X
    2,R,D
@@ -553,8 +550,7 @@ console load WinterCollab2021/1-Maps/Banana23_mintx
   15,U,X
    6,L
   43,L,D
-   4,D,X
-  11,R,X
+  15,R,Z
   23,L,D
 #wiggle
   13,R,D
@@ -584,8 +580,7 @@ console load WinterCollab2021/1-Maps/Banana23_mintx
   15,L,D,X
    3,L,D
   31,L,J
-   4,D,X
-  14,L,U,X
+  18,L,U,Z
    1,L
   15,U,C
   18,L,U,X

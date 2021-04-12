@@ -16,13 +16,114 @@ Read,Maps\Prologue,Start
 
 Read,LoadLobby
 
-#Read,1_Beginner_Lobby\start-abby,Start
-#Read,EnterLevel
-#Read,1_Beginner\abby-Beginner,Start
-#Read,ExitLevel
+Read,Lobby\start-ramentwig,Start
+Read,EnterLevel
+Read,Maps\Candy Cliffs,Start
+Read,ExitLevel
 
+Read,Lobby\ramentwig-donker19,Start
+Read,EnterLevel
+Read,Maps\Cheese Farewell,Start
+Read,ExitLevel
 
-#Read,1_Beginner_Lobby\thegur90-heartside,Start
-#Read,EnterFusionside
-#Read,1_Beginner\heartside-Beginner,Start
+Read,Lobby\donker19-fusion1,Start
+Read,EnterLevel
+Read,Maps\Cheesecake Country,Start
+Read,ExitLevel
+
+Read,Lobby\fusion1-carelessanonymous,Start
+Read,EnterLevel
+Read,Maps\Garden in the Sky,Start
+Read,ExitLevel
+
+Read,Lobby\carelessanonymous-marcossanches,Start
+Read,EnterLevel
+Read,Maps\Frigid Storm,Start
+Read,ExitLevel
+
+Read,Lobby\marcossanches-fusion2,Start
+Read,EnterLevel
+Read,Maps\Storm Garden,Start
+Read,ExitLevel
+
+Read,Lobby\fusion2-kaerra,Start
+Read,EnterLevel
+Read,Maps\FORWARD FACILITY,Start
+Read,ExitLevel
+
+Read,Lobby\kaerra-jackal,Start
+Read,EnterLevel
+Read,Maps\Starship Ruins,Start
+Read,ExitLevel
+
+Read,Lobby\jackal-fusion3,Start
+Read,EnterLevel
+Read,Maps\Chaos Complex,Start
+Read,ExitLevel
+
+Read,Lobby\fusion3-cabob,Start
+Read,EnterLevel
+Read,Maps\Momentum Sanctuary,Start
+Read,ExitLevel
+
+Read,Lobby\cabob-oknano,Start
+Read,EnterLevel
+Read,Maps\Tower of the Moon,Start
+Read,ExitLevel
+
+Read,Lobby\oknano-fusion4,Start
+Read,EnterLevel
+Read,Maps\Lunar Ascension,Start
+Read,ExitLevel
+
+Read,Lobby\fusion4-banana23
+Read,EnterLevel
+Read,Maps\Sapphire Summit,Start
+Read,ExitLevel
+
+Read,Lobby\banana23-mintx,Start
+Read,EnterLevel
+Read,Maps\Tempestissimo,Start
+Read,ExitLevel
+
+Read,Lobby\mintx-fusion5,Start
+Read,EnterLevel
+Read,Maps\Sapphiretissimo,Start
+Read,ExitLevel
+
+Read,Lobby\fusion5-dantko,Start
+Read,EnterLevel
+Read,Maps\Portal Reef,Start
+Read,ExitLevel
+
+Read,Lobby\dantko-viv,Start
+Read,EnterLevel
+Read,Maps\Distorted,Start
+Read,ExitLevel
+
+Read,Lobby\viv-fusion6,Start
+Read,EnterLevel
+Read,Maps\Warped Bay,Start
+Read,ExitLevel
+
+Read,Lobby\fusion6-bissy,Start
+Read,EnterLevel
+Read,Maps\Crystal Quarry,Start
+Read,ExitLevel
+
+Read,Lobby\bissy-indecx,Start
+Read,EnterLevel
+Read,Maps\Abandoned Mines,Start
+Read,ExitLevel
+
+Read,Lobby\indecx-fusion7,Start
+Read,EnterLevel
+Read,Maps\Opalescent Caverns,Start
+Read,ExitLevel
+
+Read,Lobby\fusion7-fusionside,Start
+Read,EnterLevel
+Read,Maps\Fusion Side
+  59
+   1,O
 

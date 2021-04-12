@@ -7,7 +7,7 @@ console load WinterCollab2021/0-Lobbies/1-Maps 2896 3352
 #lvl_2-lobby
   15,U,X
   14,R
-   4,D,X
+   4,Z
    1,R,J
    7,R
    3,R,J
@@ -16,7 +16,7 @@ console load WinterCollab2021/0-Lobbies/1-Maps 2896 3352
    3,R,J
    2,L,J
    7,L
-   4,D,X
+   4,Z
    3,R
    1,L,J
    1,L
@@ -50,7 +50,7 @@ console load WinterCollab2021/0-Lobbies/1-Maps 2896 3352
    8,R
    1,R,J
    4
-   4,D,X
+   4,Z
    5,L
    1,R,J
    6,R

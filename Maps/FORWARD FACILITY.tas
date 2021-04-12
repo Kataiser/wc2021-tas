@@ -3,8 +3,9 @@
 console load WinterCollab2021/1-Maps/KAERRA
    1
 
+  30
 #Start
- 190
+ 160
 
 #lvl_intro
    4,Z
@@ -290,8 +291,7 @@ console load WinterCollab2021/1-Maps/KAERRA
    5,R
    2
    2,J
-   4,D,X
-   8,R,U,X
+  12,R,U,Z
    9,J
    3,R,J
    2,R
@@ -337,8 +337,7 @@ console load WinterCollab2021/1-Maps/KAERRA
   13,R
   23,R,X
    5,J
-   4,D,X
-   2,R,X
+   6,R,Z
    5,R,J
    8,R
   14,R,U,Z
@@ -382,8 +381,7 @@ console load WinterCollab2021/1-Maps/KAERRA
    6,R,J,G
   14,R
   13,D,X
-   4,D,C
-   9,L,C
+  13,L,Z
   12,U,X
    4,C
    9,D,C
@@ -414,8 +412,7 @@ console load WinterCollab2021/1-Maps/KAERRA
   16,R
   15,R,X
   16,R,D
-   4,D,X
-   1,L,X
+   5,L,Z
    1,R,J
    6,R
   40
@@ -896,8 +893,7 @@ console load WinterCollab2021/1-Maps/KAERRA
    2,R
   35,R,X
    4,J
-   4,D,X
-   8,U,X
+  12,U,Z
   12,J
   15,U,X
    2
