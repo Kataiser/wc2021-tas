@@ -7,24 +7,21 @@ console load WinterCollab2021/1-Maps/OkNano
  190
 
 #lvl_Nano-intro
-   4,Z
-   2,R,J
-   8,R
-   1,R,J
-  12,R,D,X
-   2,R,J
-   4,R
+  12,R,Z
    1,R,J
    7,R
-   4,R,J
-   2,R,K,G
-   2,R
-  22,R,D,X
-  14,R,U,C
-   5
-   4,R,J
-  14,R,D,X
    1,R,J
+   2,R
+   9,R,D,X
+   7,R,J,G
+   9,R
+   1,R,J
+  21,R,D,X
+  19,R,U,C
+   4,R,J
+  10,R,D,X
+   1,R,J
+   4,R
   14,R,D,X
    1,R,J
    5,R,D,X
@@ -33,22 +30,20 @@ console load WinterCollab2021/1-Maps/OkNano
 #lvl_Nano-1
    9,R,D,X
    4,R,J
-  14,R,X
-   9
+  23,R,X
    4,R,J
   15,R,K
   14,U,X
   11
-   4,Z
-  10,R
+  14,R,Z
   15,R,J
    5,R
   14,U,X
    9
-   4,Z
-   7,L
-  14,L,J
-   5,L,Z
+  14,L,Z
+   1,L,J
+   3,L
+  12,L,U,Z
   14,U,C
    5
   14,L,X
@@ -59,45 +54,51 @@ console load WinterCollab2021/1-Maps/OkNano
   40
 
 #lvl_Nano-2
+#If someone wants to 
+#Improve this trick
+#You need to be 
+#very far left
+#With an upright demo
+#i think about the
+#leftmost 10th of a px
    8,R
    1,R,J,G
-   6,R,K,G
-  14,R,X
-  12,R
-   6,R,J
-  12,R,K
-  14,U,X
-  20
-  14,D,X
-   3
-  14,L,X
-   4
-   4,Z
-  10,R
-  13
-  20,R,U,X
-   5,R,C
+   2,R,K,G
+  12,R,J,G
+   3,R
+  21,R,Z
+   4,J
+   4,R,J
+   1,K
+   5,R,K
+   3,K
+   1,L,K
+   1,J,G
+   4,R,J
+   6,J
+  32,R,U,Z
+   7,R,C
   13
    4,R,J
-   7,R,Z
-  19,R,J
-  14,U,X
-  10
+  11,R,K
+   5,R
+   8,R,J
+  14,U,Z
+   8
   14,L,X
    4
    4,L,J
    7,L,K
-   4,Z
-   7,L
+  11,L,Z
   16,L,J
   15,L,U,X
   14,L,D,C
   23,L,J
-  11,U,X
-   6,L,J
-   8,J
-   4,L
-   7
+  13,U,X
+   9,L,J
+   2,J
+   6
+   5,L
    4,Z
    2,L,J
    8,L
@@ -116,38 +117,33 @@ console load WinterCollab2021/1-Maps/OkNano
    5
   14,L,X
    4
-   4,L,J
-  15,L,K
+   6,L,J
+  13,L,K
   14,U,X
   22,L,J
    1,L
    9,L,J
   14,U,X
    2,L
+   4,L,J
+   8,L
    5,L,J
-   3
-  11,L
-   7,L,J,G
-   9,L
+   5,L,K,G
+   1,K
+   1,L,K
+   8,L
   10,L,D,X
-  22,R,J
-   2,R
+  20,R,J
+   3,R
   15,R,U,X
    3,L
   14,R,D,X
-  21,R,J
-   2,R
-   8,U,X
-   8
-  12,D,X
-  14,R,D,C
-  15,R,Z
-  14,U,X
-  11,R,J
+  32,R,J
+  15,R,U,Z
    3,R
-  14,U,X
-  21
-  14,D,X
+  26,R,J
+  46,U,X
+  14,D,C
    4
   14,L,X
   10
@@ -157,8 +153,10 @@ console load WinterCollab2021/1-Maps/OkNano
   14,L,Z
    5
    4,L,J
-   2,L,K
-  21,L,D
+   1,L,K
+   5,L
+   6,L,J
+  11,L
   14,L,Z
    1,L,J
   13,L,D,X
@@ -169,45 +167,45 @@ console load WinterCollab2021/1-Maps/OkNano
    1,L,J
   14,L,D,X
    2,L,J
-  11,L,Z
-   2,L,J
+  12,L,Z
+   1,L,J
    2,L
   14,L,D,X
   24,L,J
   14,U,X
   14,R,J
-   4,Z
-  10,R
-  14,R,U,X
-   2
+  15,R,X
+  14,R,U,C
+   1
    7,R,J
-  12,R,K
-   2,R
+  11,R,K
+   3,R
   14,U,X
    7
   11,R,C
    7,L,X
    4,L,J
    1,L,K
-   6,L
-  12,L,J,G
+   5,L
+   1,L,J
+  13,L,K,G
    9,U,X
-  15,L,J
-   4,Z
-  10,L
-  24,L,J
+  14,L,J
+  14,L,Z
+  21,L,J
+   2,L
   14,U,X
   24,R
   11,R,X
   14,R,D,C
   20,R,J
-   4,Z
-  10,R
+  14,R,Z
   13,R
    4,R,J
-  10,R,K
+   3,R,K
+   7,K
   15,U,X
-  11,L,Z
+  10,L,Z
   13,U,X
   13
   10,R,X
@@ -218,54 +216,57 @@ console load WinterCollab2021/1-Maps/OkNano
 #lvl_Nano-4
    1
    7,J
-   5,L,J
+   6,L,J
   14,L,U,X
-   5
+   4
    4,L,J
-   2,L,K
-  10,L,J,G
+   3,L,K
+   9,L,J,G
   14,U,X
   14
   10,R,Z
-   4,L,J
-   4,L
-   6
-  12,L,J,G
+   1,L,J
+   2,J
+   1,L,J
+  10,L
+  11,L,J,G
    7,U,X
   36,L,J
   24,R
-  15,R,X
-   9,R
+  15,R,Z
+   8,R
    4,R,J
-   7,R,Z
-  18,R,J
-  10,U,X
-  14,U,C
+   9,R,K
+   5,R
+   8,R,J
+   8,U,X
+  14,U,Z
    5
   12,L,X
-   1,R,J
-  10,L,Z
-  19,L,J
-  12,U,X
-   4,Z
-   8,L
-   6,L,J
-   1,L
    4,L,J
-  17,L,K,G
-  15,U,X
-  10,U,C
+  10,L,K
+   5,L
+   6,L,J
+  10,U,X
+  12,L,Z
+   2,L,J
+   2,L
+   5,L,J
+  15,L,U,X
+  15,U,Z
+   3,L
+   1
+   1,L
+   8,L,J
   11,L,D,X
    6,R,J
    1,R
    1,R,J
    4,R
-   4,Z
-  10,R,U
-   5,R
-   5
+  15,R,U,Z
+   9,R
   14,R,D,X
-  21,R,J
+  20,R,J
   10,U,X
   17,R,J
    1,R,K,G
@@ -286,15 +287,14 @@ console load WinterCollab2021/1-Maps/OkNano
   10,R,D,X
    1,R,J
    7,R
-  19,R,J
+  21,R,J
   13,U,X
-  11,R,J
-   1,R
-  23,R,J
-   4,Z
-   2,R
+  10,R,J
+   8,R
+  15,R,J
+   7,R,Z
    1,R,J
-   7,R
+   6,R
    1,R,J
    6,R,D,X
   40
@@ -304,43 +304,40 @@ console load WinterCollab2021/1-Maps/OkNano
    1,R,J
   12,R,D,X
    1,R,J
-   7,R
-   7,R,J
-   1,R
-   1,R,K
-   6,R,J,G
+   4,R
+   1,R,J
+   2,R
+   7,R,K
+   2,R
+   1,R,J,G
+   5,J
   14,U,X
-  19
-  14,L,X
-   3
-  14,U,X
-   6
-  14,D,X
-   5
-  15,R,X
+  13
+   3,L
+  20,L,Z
+  20,U,C
+  19,D,X
+  15,R,C
    4,R,J
    7,R,Z
   22,R,J
    6,U,X
   18,R,J
-   4,Z
-  10,R
+  14,R,Z
    4,R,J
-   1,R
-  14,R,D,X
    2,R
-   2,R,J
-   2,R
-  11,R,X
+  15,R,D,X
+   1,R,J
+   4,R
+  10,R,X
   10,R,J,G
   16,R
-   4,Z
-  10,R
+  14,R,Z
    9
   14,R,D,X
    2,R
-  16,R,D,X
-  10,R,Z
+  15,R,D,X
+  11,R,Z
    6,R,J
    2,R
   15,R,K,G
@@ -362,10 +359,8 @@ console load WinterCollab2021/1-Maps/OkNano
    1,R,J
   15,R,D,X
    1,R
-  10,R,J
-   5,R,D
-   5,R,J
-  18,R,D
+  12,R,J
+  26,R,D
   14,R,X
    4
    4,R,J
@@ -375,8 +370,7 @@ console load WinterCollab2021/1-Maps/OkNano
    6,R,J
   14,U,X
   12,R
-   4,Z
-  10,R
+  14,R,Z
    1,R,J
   13,R,D,X
   40
@@ -396,6 +390,6 @@ console load WinterCollab2021/1-Maps/OkNano
   12,R,D,X
    3,R,J
   12,R,U,X
- 135
-#54.349(3197)
-
+ 120
+  15,D,X
+#53.193(3129)
