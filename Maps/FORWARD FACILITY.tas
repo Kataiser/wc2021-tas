@@ -96,9 +96,11 @@ console load WinterCollab2021/1-Maps/KAERRA
    1,R,K
   12,R,X
    1,R,J,G
-  10,R,K,G
+   6,R,K,G
   15,R,D,X
-   9,R
+   8,R
+   1,L
+   3,J,G
   18,R,U,X
   16,R,D,C
    4,Z
@@ -887,21 +889,22 @@ console load WinterCollab2021/1-Maps/KAERRA
   15,R,X
    6,R,J
    5,R,Z
-  14,R,J
-   1,R
-   1,R,J
-   2,R
-  35,R,X
-   4,J
-  12,U,Z
-  12,J
-  15,U,X
-   2
+   7,R,J
+   7,R
+  40,R,Z
+   4,L,J
+   1,L,K,G
+   4,R
+   1,J
+   6,L,J
+   1,K
+   6,R,K
+   3,R
    9,R,X
-  10,R,J,G
+   9,R,J,G
    5,R
-   2,R,J
-  11,R
+   3,R,J
+  10,R
    1,L
    3,J,G
    4,R,J
@@ -909,18 +912,13 @@ console load WinterCollab2021/1-Maps/KAERRA
    9,R,J,G
    9,J
    3,K
-  13,L,U,X
-   4,R,J
-   6,R,D,X
-   3,R,J,G
-   2,L,J
-   6,L
-   2,L,J
-  19,L,D
-  12,R,D
-   8,R,D,X
-   4,C
-  30,L,D,C
+  11,L,U,X
+  20,R,J
+  12,R
+  18,D,X
+  12,R,D,C
+   4,X
+  30,L,D,X
    5,R
    4,Z
   12,R,J
@@ -978,7 +976,7 @@ console load WinterCollab2021/1-Maps/KAERRA
    8,R,J
   13,R,D,X
    1,R,J,G
-  22,R
+  22,R,D
    4,R,J
    5,R
    1,R,J
@@ -990,16 +988,22 @@ console load WinterCollab2021/1-Maps/KAERRA
   10,R,U,X
    8,R
   28,R,Z
-   4,R,J
-   4,R,K
-   7,R
-   3,R,K
-   8,R
-  28,R,Z
-   4,R,J
-   6,R,K
-  14,R,U,X
-  65,D
-  15
-  56,L,D,X
-#112.489(6617)
+   5,R,J
+   1,J
+   1,R
+   1,R,K
+  13,R,X
+   1,R,J,G
+   1,R,K,G
+   2,K
+   2,R,K,G
+   5,R
+   5,R,J
+   8,R,K,G
+   5,R
+   6,R,J
+  15,R,X
+  32,L
+  15,R,D,X
+  95,R
+#112.200(6600)
