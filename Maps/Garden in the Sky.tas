@@ -334,40 +334,39 @@ Play, lvlstart
    5,R,D,X
    1,R,J,G
   14,R
-  20,R,J
-   1,R
-   4,R,J
+  25,R,J
   18,R,D,X
   12,R,Z
    6,R,J
    5,R
    1,R,J
-   4,D,X
-  11,R,U,X
+  15,R,U,Z
   19
-   5,L
-   1
-  12,J
-  67,L,U,J,G
-  10,L,G
-   9,L,D,G
-  25,L,G
+   3
+   2,R
+   9,R,X
+   1,L
+   9,J
+  18,J,G
+  53,L,D,G
+  19,L,G
   15,L,U,X
    6
   21,G
    1,D
-  18
-   6,R
-  11,R,X
-   1,L,J
-   4,J,G
-  30,U,J,G
-  16,L,X
+  17
    4
-  10,L,C
-   9,R,J
-  26,J,G
+  10,R,X
+   7,L,J
+  17,L,J,G
+  11,L,G
+  20,L
+   1
+  11,L,C
+   5,R,J
+  27,J,G
    1,L
+   2,R
   18,U,X
   18,U,C
    2,R
@@ -378,23 +377,21 @@ Play, lvlstart
    3
   15,L
    2,L,D
-  16,D
+  11,D
+   6,L,D
   12,L,D,X
   17,R,J
-  28,R,J,G
-   1,R,G
-   1,R,J,G
-   6,R,G
+  29,R,J,G
+   8,R,G
    1,L
-   4,D,X
-  11,R,U,X
+  15,R,U,Z
    9,R
    5,R,J
   15,U,X
   12,R,J,G
   12,R,K,G
-   4,R
-   5
+   5,R
+   3
    4,D,X
    2,R,J
    2,R
@@ -405,13 +402,11 @@ Play, lvlstart
    6,R,Z
    1,R,J
   13,R
-  14,R,J
-   1,R,K,G
+  15,R,J
+   1,L,K,G
    4,R,K
-   1,R
    4,R,J
    1,R,K
-   1,R
   11,U,X
   25,R,J
   18,R,U,X
@@ -431,15 +426,15 @@ Play, lvlstart
   17,L,J
   59,L,U,J,G
   18,U,X
-  11
-  10,R
+  13
+   8,R
    7,U,X
- 252,R,G
+ 254,R,G
   15,R,U,X
    6,R
   23,R,G
    1,L
-  24,R
+  23,R
   14,R,Z
    1,R,J
   14,R,Z
@@ -469,6 +464,7 @@ Play, lvlstart
   12,R,J,G
    9,R,K,G
    7,R
+
   14,R,Z
    1,R,J
   11,R,Z
@@ -485,99 +481,108 @@ Play, lvlstart
    1
    8,R,D,X
    1,J,G
-  12
-  12,R,J
-  33,R,G
-  11,R,U,J,G
+  10
+   2,R
+   4,R,J
+   6,R
+   5,R,U,X
+  46,R,G
    1,R
   15,R,U,X
-  10
-  15,L
-  10,R,X
-   1,R,J
-  24,J
-   5,L,J
+  29
+  15,R,J
+   7,J
   18,U,X
-   9,L
-  20,U,C
+  15,U,C
+   3,L
    1,L,J
-   5,J
-   8,L,J
-  40,L,G
-  23,G
-  16,L,J,G
-   1,R
-  10,L,Z
-   5,L,J
-   6,L,U,X
-  65,L,G
-   1,D
-  17
-   1,R
-   1
-   1,R
-   1
-   1,R
-   1
+   3,J
+  10,L,J
+  34,L,G
    1,R,D
-  29,D
-   6,R,D
-   4,R
+  10,L
+  13,R,X
+   2,L,J
+  24,L,J,G
+   1,R
+  13,L,U,X
+  56,L,G
+  14,L,D,G
+   3,D,G
+  11,L,D
+  17,R,D
+  18,D
+   2,R
+   1
+   1,R
   10,R,Z
   38,R,J
   15,R,U,X
-  38,R,G
+  39,R,G
    1,R,D
-  23,R
+  20,R
    1
-  10,D
-   7,L,D
+   1,R
+   1
+   6,D
+  11,L,D
   18,L,D,X
   15,L,C
   13
-   1,D
   10,R,D
-   6,D
-  12
+   7,D
+   1,R,D
+   6
+   5,R
   10,R,Z
    5,R,J
    5,R,U,X
-  35,R,G
-  50,R,U,J,G
-   1,R
+  85,R,U,J,G
+   7,R,J
   15,R,U,X
-   6,R
-  75,R,G
+  73,R,U,J,G
+
    1,D
    8,L
   12,U,X
+
   40,J,G
    1,D
-   9,L
-  11,U,X
-  14,J,G
-  15,L,J,G
-  15,L,G
+   4
+   8,L
+  10,U,X
+  18,J,G
+  25,L,J,G
    1,R
-  11,L
+   5,L
   15,L,U,X
-  12,L
+  29,L
   35
   25,R,D
-  57,D
-  12,R,D,X
-  15,L,J
-  16,L
+   2,L,D
+   7,R,D
+   1,L,D
+   1,R,D
+   7,D
+   2,L,D
+   1,R,D
+   7,D
+   1,L,D
+   1,R,D
+   7,D
+  15,L
+  10,R,D,X
+  28,L,J
   15,D,X
-   3
-  10,L
-   1,R,J
+   6
+  11,L
+   1,L,J,G
   36,R
-   6,R,D
+   4,R,D
+  14,R,D,X
+  22,R,J
   10,R,D,X
   23,R,J
-  11,R,D,X
-  21,R,J
   18,R,U,X
    5
   15,L,U,X
@@ -588,52 +593,52 @@ Play, lvlstart
   18,U,X
    3,R
   15,R,U,C
-  18
-   4,R
+  20
+   2,R
   10,L,X
    1,R,J
   26,J
   15,U,X
-  19
-   7,R
+  20
+   6,R
   14,L,X
-   2,R,J
+   1,R,J
   10,J
   10,R,Z
    1,R,J
    4,R
-  17,R,D,X
-  62,R,J
+  15,R,D,X
+   3,R
+  65,R,J
   15,R,U,X
-  19,R
-   3
-   2,R,J,G
+  21,R
+   4,R,J,G
    5,L,J
-   7,R,J
-  14,R,K,G
-  14,R,J,G
-  14,R,K,G
+   9,R,J
+  16,R,K,G
+  15,R,J,G
+  15,R,K,G
    5,R
    4,D,X
    1,R,J
-   5,R
-   2,R
-   1,R,J
    7,R
+   1,R,J
+   5,R
+   6,R,D,X
   40
 
 #lvl_11
+   4,R,D,X
+   4,R,J
+   2,J
    5,R,D,X
-   4,R
-   6,R,J
    5,R,K,G
-  11,R
-  19,R,J
+   9,R
+  17,R,J
    3,R,K,G
    3,R,J,G
    3,R,K,G
-   6,R,X
-   4
+  10,R,X
   13,L,J
   15,U,X
    2
@@ -654,9 +659,8 @@ Play, lvlstart
    6,L,J
   22,L,U,X
   75,L
-   1,D,X
-   3,L,J
-   1,R
+   3,D,X
+   1,R,J
    4,L
    1,R
    5,L
@@ -666,5 +670,5 @@ Play, lvlstart
    5,L
    3,R
    5,L
-   2,R
-#119.119(7007)
+   3,R
+#118.541(6973)
