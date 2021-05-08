@@ -1,4 +1,5 @@
 #By Kataiser, Wakey, & Sashabell
+
 console load WinterCollab2021/1-Maps/Bissy
    1
 
@@ -483,27 +484,30 @@ console load WinterCollab2021/1-Maps/Bissy
    1,L,G
    9,L,J,G
    6,K
-  15,U,X
-  40,D
-  41,D
-  11,R,D
-  24,L
+  18,U,X
+   1,L,D
+  34,D
+   1,R
    1,J
-  24,L,J
-   1,K
-  23,L,K
-   1,L
-   1,L,J
-  18,R,K
+   2,K,G
+  22,L,K
+  18,L,D
+   3,D
+   3
+  24,L
   15,U,X
-  15,U,C
-  20,L
-   4,L,G
+   3,L
+   2
+   4,R,J
+  17,J
+  18,U,X
+   3
+   1,L,J,G
+  27,L,U,G
   15,U,X
    5
-  42,R,J
-   2,R,D
-   4
+  32,R,J
+  16,R
   15,U,X
   15,U,C
   14,U,X
@@ -750,4 +754,4 @@ console load WinterCollab2021/1-Maps/Bissy
   10,R,J
   31,U,X
  114,D
-#124.967(7351)
+#124.287(7311)
