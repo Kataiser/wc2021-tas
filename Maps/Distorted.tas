@@ -93,12 +93,12 @@ console load WinterCollab2021/1-Maps/Viv
    1,L,J
   14,R,D,X
    1,R,J
-  10,R,D,X
-  13,D
-   5,L,D
-  16,R,D
+   2,R
+  16,L,D
+   9,R,D
+  16,R
    1,R,J
-  16,R,D
+  16,R
    1,R,J
   16,R
   13,R,J
@@ -146,8 +146,8 @@ console load WinterCollab2021/1-Maps/Viv
    1
 
 #spinner cycle
-#0 for IL
-   2
+#1 for IL
+   1
 
    2,R
    4,R,J
@@ -713,4 +713,4 @@ console load WinterCollab2021/1-Maps/Viv
   25,R
   15,L,D,X
  135
-#100.861(5933)
+#93.568(5504)

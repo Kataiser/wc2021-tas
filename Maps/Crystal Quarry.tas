@@ -268,30 +268,18 @@ console load WinterCollab2021/1-Maps/Bissy
   14,U,X
   22,L,J
   13,R
-  15,R,U,X
-  14,R
-#I tried very hard to
-#skip this, but no luck
-  33,D
-   7
-   2,R
-  18,L
-   1,J
-  24,L,J
-   1,K
-  25,L,K
-   1,J
-  25,L,J
-   1,K
-  22,L,K
-   2,K
-   1,L,K
-  30,R,J
+  15,R,U,Z
+   9,R
+   3
+  47,L,J
+  14,L,D
+   1,D
+  12,R
+  31,R,J
   15,U,Z
-   4,R
-   4,J
-  17,R,J
-  12,R,K,G
+   1,R
+  18,R,J
+   3,R,K,G
   40
 
 #lvl_bissy_3
@@ -754,4 +742,4 @@ console load WinterCollab2021/1-Maps/Bissy
   10,R,J
   31,U,X
  114,D
-#124.287(7311)
+#122.502(7206)
