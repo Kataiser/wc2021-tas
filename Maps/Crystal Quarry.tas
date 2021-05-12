@@ -73,75 +73,73 @@ console load WinterCollab2021/1-Maps/Bissy
    1,J
   20,L,J
    4,X
-  10,L,D,X
-  26,L,J
-  10,U,X
-   1,J
-  14,L,J
-  12,L,G
-   9,J,G
-   1,R,J
+   6,L,D,X
+  13,L,J
+  15,L,U,X
+  15,U,C
+   1,L,J,G
+   7,L
+   1,L,G
+  12,J,G
    1,K
-   7,R,K
-   2,K
-  12,J
-   2,K
+  11,R,K
+  10,J
+   2
+   1,R,K
    1,J
-  14,R,U,X
-  19
-  14,U,Z
+  10,R,J
+   4,R
+   2
   19,L
-   7
-  15,U,X
-  30,R,J
-   1,J
-   9,R,K,G
+  11,U,X
+  21
+  10,U,X
+  25,R,J
+  12,R,K,G
+  11,R,J,G
   40
 
 #lvl_bissy_1
-  12,R
-   1,R,J,G
+  11,R
+   2,R,J,G
   10,R,X
-  18,J
+  17,J
   15,U,X
    6,R
-  10,R,Z
-  16,L,J
-  16,U,X
-   1,R,J,G
-   1,L
-   1
-   1,L
-   1,R
-  10,U,G
-   1,G
-   1,U,G
-  32,G
-   3,D,G
-   2,G
-   1,D,G
-  33,G
-   4,D,X
-  11,R,X
-   1
-   1,R
-   1
-   7,U,C
-  21,R,J
+  10,R,X
+   1,L,J
+   1,J
+   2,L,J
+   8,J
+  15,L,U,X
+  11,R
+  20,U,G
+  21,G
+   6,D,G
+  17,G
+  17,R,X
+   5,U,C
+  18,R,J
+   9,R
+   5,R,J
+   2,J
+   4
   15,U,X
-  10,L,D,C
-  23,R,J
-   5,R
+  10,L,Z
+  28,R,J
   15,U,X
-   2,R
-  14,L,J
+   5,L,J
+   5,J
+   1,L,J
+   1,J
+   2,L,J
+   1,L
   35,L,D
-  12,D
-   1
+  11,D
+   2
    1,J
    8,L,J
-   3,L
-   2
+   5,L
    4,D,X
   14,L,X
    1
@@ -154,7 +152,8 @@ console load WinterCollab2021/1-Maps/Bissy
    6,R
    1
    1,R
-   4,G
+   3
+   1,G
    1,L,J
    7,L,K
    4,L
@@ -163,9 +162,10 @@ console load WinterCollab2021/1-Maps/Bissy
    5,L,K
   19,L,D
   22,D
-   4
-  15,R,U,X
-  11,R
+   3
+   1,L
+  18,R,U,X
+   8,R
   13
   12,U,X
    7,L,J
@@ -257,29 +257,28 @@ console load WinterCollab2021/1-Maps/Bissy
   15,L,X
    7,L
    1,L,G
-  12,J,G
-   3,K,G
+  12,L,J,G
+   3,L,K,G
    9
-   1,J
-   3,R,J
-   1
-  13,L,D,X
-  28,L,J
-  14,U,X
-  22,L,J
+  14,L,D
+  19,L,J
+  15,L,U,X
+   6,L
+  15,L,U,C
+   6,L
   13,R
   15,R,U,Z
-   9,R
-   3
-  47,L,J
-  14,L,D
-   1,D
+  11,R
+  44,L,J
+  15,L,D
+   2,L
+   1
   12,R
   31,R,J
   15,U,Z
    1,R
   18,R,J
-   3,R,K,G
+   6,R,K,G
   40
 
 #lvl_bissy_3
@@ -515,33 +514,27 @@ console load WinterCollab2021/1-Maps/Bissy
    3,L,U,G
   14,U,Z
   19,R,J
-   5,R,X
-  49,R
-   5,L,X
-   2,L,J,G
-   1,L,K,G
-  22,L,J,G
-   9,L
-   1,L,G
-   1
+  24,L
+  30
    1,J
-  14,L,J
-  12,K
-   4,J
-   5,R,J
-  17,R,K
-  28,L
-  15,L,X
-  15,L,D
-  12,D
-   1,L,J
-   1,L,K
-  16,L
+   9,R,J
+  12,R
+  16,K
+   9,L,K
+   2,K
+  11,L,K
+  22,L,J
+   1,K
+  25,L,K
+   1,J
+   6,L,J
   15,L,U,X
-   8,L
+  19,L
    5,R
   15,U,X
   14,L
+   2,R
+   7,L,U,X
   22,R
   15,U,Z
    2,R,J
@@ -729,17 +722,20 @@ console load WinterCollab2021/1-Maps/Bissy
 #lvl_bissy_7
   11,R
   10,R,D,X
-   6,R,J
-   3,R,K,G
-  10,R,J,G
-  12,R,D,X
+   3,R,J
+   2,J
+   5,R,D,X
+   5,R,J,G
+   1,R,K,G
+   3
+   7,R
+   1,R,D
+   1,R
+   1,R,J
+   8,R,D,X
    4,R,J,G
-  11,R
-   1,J
-   5,R,J
-   5,R
-  14,R,X
-  10,R,J
-  31,U,X
- 114,D
-#122.502(7206)
+   1,R,K,G
+  23,R,J,G
+  15,R,U,X
+ 135,D
+#121.125(7125)

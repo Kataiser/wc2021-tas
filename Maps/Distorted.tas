@@ -13,25 +13,23 @@ console load WinterCollab2021/1-Maps/Viv
    7,R,J
    1,R
    1
-   9,R,J,G
-   1,L,K,G
-   7,R,K,G
+   7,R,J,G
+   2,J
+   7,L,K,G
+   4,R,K
    1,R,J,G
-   2,L,J,G
-   1,R,K,G
-   9,R
-   1,R,J
-  10,R
+  14,R
+   1,J
   15,R,D,X
-   8,R,D
+   9,R,D
    1,R
   10,R,X
-   6,R,J
+   5,R,J
   15,U,X
   12,R,J,G
   12,R,K,G
   12,R,J,G
-   3,R,K,G
+   4,R,K,G
    5,R
    3,R,J
    8,R
@@ -146,7 +144,7 @@ console load WinterCollab2021/1-Maps/Viv
    1
 
 #spinner cycle
-#1 for IL
+#2 for IL
    1
 
    2,R
@@ -209,6 +207,7 @@ console load WinterCollab2021/1-Maps/Viv
    1,K
   40
 
+#lvl_Viv-2a
    1
   75,O
    1,L,J
@@ -217,7 +216,10 @@ console load WinterCollab2021/1-Maps/Viv
    7,R
    1,J
    2,R
-  48,L
+   5
+  43
+
+#lvl_Viv-3
    6,R,D
    3,L,D
    1,R,D
@@ -713,4 +715,4 @@ console load WinterCollab2021/1-Maps/Viv
   25,R
   15,L,D,X
  135
-#93.568(5504)
+#93.517(5501)
