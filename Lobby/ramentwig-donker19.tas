@@ -18,7 +18,9 @@ console load WinterCollab2021/0-Lobbies/1-Maps 1736 2488
    6,R,J,G
    2,R
    1,J,G
-   6,R
+   4,R
+   1
+   1,R
    1,L
    2,L,J
    2,L

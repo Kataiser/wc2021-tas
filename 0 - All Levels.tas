@@ -46,17 +46,17 @@ Read,EnterLevel
 Read,Maps\Storm Garden,Start
 Read,ExitLevel
 
-Read,Lobby\fusion2-kaerra,Start
-Read,EnterLevel
-Read,Maps\FORWARD FACILITY,Start
-Read,ExitLevel
-
-Read,Lobby\kaerra-jackal,Start
+Read,Lobby\fusion2-jackal,Start
 Read,EnterLevel
 Read,Maps\Starship Ruins,Start
 Read,ExitLevel
 
-Read,Lobby\jackal-fusion3,Start
+Read,Lobby\jackal-kaerra,Start
+Read,EnterLevel
+Read,Maps\FORWARD FACILITY,Start
+Read,ExitLevel
+
+Read,Lobby\kaerra-fusion3,Start
 Read,EnterLevel
 Read,Maps\Chaos Complex,Start
 Read,ExitLevel

@@ -20,22 +20,27 @@ console load WinterCollab2021/0-Lobbies/1-Maps 3312 2400
   36
 
 #lvl_2-lobby
-   7,R,J
+   5,R,J
+   2,R
    4,D,X
-   1,R,X
+   3,R,X
    1,R,J
-   7,R
+   6,R
    2,R,J
-   1,R
   15,R,D,X
-   3,R,J
+   2,R,J
    5,R,D,X
-   9,R,J,G
+   4,R,J,G
+   1,J
+   5,R,J
    5,R
-   1,R,J
+   1,S
+   1,X
+   9,K
+   1,R,K
    3,R
-   7,R,J
-   2,R,K,G
+   5,R,J
+   4,R,K,G
    8,R,D,X
    1,S
    1,D,J
@@ -44,10 +49,8 @@ console load WinterCollab2021/0-Lobbies/1-Maps 3312 2400
   14,R
    1,R,J
   14,R
-   1,R,J
-  14,R
-   1,R,J
-  20,R
-  15,R,C
+  13,R,J
+  15,R,D,C
+   3,R
    1,X
-#3.128(184)
+#2.975(175)
