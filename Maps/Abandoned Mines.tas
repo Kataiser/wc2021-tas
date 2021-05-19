@@ -284,9 +284,9 @@ console load WinterCollab2021/1-Maps/Indecx
    9,R,J
   25,R
    2
-   1,D
    1,R
-  28,U,G
+   1
+  27,U,G
    2,J,G
    5,K
    2,R,J,G
@@ -425,4 +425,4 @@ console load WinterCollab2021/1-Maps/Indecx
   37,L,D,X
   92,L
   10,G
-#48.416(2875)
+#48.399(2847)
