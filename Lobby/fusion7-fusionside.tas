@@ -1,13 +1,14 @@
 unsafe
 console clrsav
 console hearts 0
-console hearts 41
+console hearts 1000
 
 console load WinterCollab2021/0-Lobbies/1-Maps 1544 3704
    1
 
 #Start
   36
+
 #lvl_2-lobby
    1,Q
    1,J
@@ -16,36 +17,38 @@ console load WinterCollab2021/0-Lobbies/1-Maps 1544 3704
    1,L,J
    7,L
    2,L,J
-   1,J
   15,L,D,X
-   1,L,J
-   4,L
-   7,L,D,X
-   1,L,J,G
-  14,L
-   1,L,J
-   4,L,K,G
-   5,L
-  15,L,D,X
+   1,L
    2,L,J
    2,L
-   8,L,D,X
-   5,L,J,G
-   4
-   7,L
+   7,L,D,X
+   4,L,J,G
+  12,L
+   3,L,J
+   1,J
+  15,L,D,X
+   1
+   2,L
    1,L,J
-  11,L,D,X
+   1,J
+   1,L,J
+   1,L
+   7,L,D,X
+   3,L,J,G
+  11,L
+   1,L,J
+  12,L,D,X
    1,S
    1,D,J
   34
-  16,L,D
-   1,D
-   7,J
-   2,L,J
+   7,L,D
+   2,L
+   4
+   5,L
+   9,L,J
    1,J
    3,L,K,G
-   3,L
-   1
+   4
   14,L,U,X
    1,R,J,G
   12,L,J
@@ -62,19 +65,20 @@ console load WinterCollab2021/0-Lobbies/1-Maps 1544 3704
    8,L,J
   12,K,G
   15,U,X
-   1,L
-   2,L,J,G
+   2,L
+   1,L,K,G
    7,L
-  12,L,Z
+   5,R,Z
+   1,L,J
+   6,L
    1,L,J
    5,L,K,G
-   6,L
-   2,L,J,G
-   6,L
-   1,L,K,G
-   6,L
-   5,L,J,G
-   2,L
-  15,L,D,C
+   7,L
+   2,L,J
+   3,L
+   2,L,K,G
+   4,L
+   4,L,J,G
+  13,L
    1,X
-#5.950(350)
+#5.797(341)

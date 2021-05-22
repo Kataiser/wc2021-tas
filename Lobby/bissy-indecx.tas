@@ -5,25 +5,27 @@ console load WinterCollab2021/0-Lobbies/1-Maps 1752 3320
   36
 
 #lvl_2-lobby
-   2,L,J
-  12,L,K,G
-   2,J,G
+   1,L,J
+   1,L
+  13,L,K,G
+   1,J,G
    5,L,Z
    1,L,J
    6,L
-   1
   12,L,J
   15,L,D,X
    2,L,J
    1,L,K,G
-  11,L
-   8,L,J
-   7,L,D,X
-   4,L,J,G
-  12,L
-   1,L,J
-  10,L,D,C
-   1,L,J
-   9,L
+   1
+  10,L
+   5,L,J
+   3,L
+   6,L,D,X
+   2,L,J,G
+   6,L
+   1,L,K
+   2,L
+   2,L,J
+  16,L
    1,X
-#1.887
+#1.768(104)
