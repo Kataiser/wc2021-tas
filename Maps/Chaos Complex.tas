@@ -256,7 +256,8 @@ console load WinterCollab2021/1-Maps/Jackal_KAERRA
 
 #lvl_c5
    7,R,D,X
-  16,R,J
+   4,R,J
+  15,R,X
   25,L,D,C
    4,Z
    1,R,J
@@ -267,36 +268,40 @@ console load WinterCollab2021/1-Maps/Jackal_KAERRA
    1,R,D
    1,D
    1,R,D
-  17,L,D
+  18,L,D
   15,L,D,X
-  10,R
-  15,R,X
+   7,R
+   1,L,J
+   1,L
+  15,R,Z
    1
-   4,R,J
-  21,R,K
-   1,L,J,G
    5,R,J
-  15,U,X
-   1
+   2,R
+  22,R,K
+  14,U,X
   12,D,C
   15,U,X
   18,L,U,C
   10,U,X
   15,R,C
    4,L
-  95,D,X
+  94,D,X
+  28,L,D,C
+   4,L,J
+   1,L,K
+   5,L
+   1,L,J
+   3,L
+   8,R,D,X
+#36.839(2167)
   15,L,C
-  12,L
-  15,R,U,C
-  12,R,D,X
-  15,L,C
-   2,R
-   4,D,X
-  18,R,U,X
+   1,R
+  20,R,U,X
    4,R,J
-  10,R,K
-  17,D,X
-  15,D,C
+   1,R,K
+  12,R,U,Z
+  17,D,C
+  15,D,X
   13,L
   30,L,D
   14,R,D
@@ -328,17 +333,18 @@ console load WinterCollab2021/1-Maps/Jackal_KAERRA
   40
 
 #lvl_c4
-  11,R,D,X
-   3,R,J
+  12,R,D,X
+   2,R,J
   11,R,X
-  23,R,U,C
-   4,D,X
-   5,R,X
+  18,R,U,C
+   6,R,J
+   5,R,Z
   16,R,J
-   1,J
   14,R,X
    1,R,J,G
-  14,R
+   5
+   2,R,J
+   8,R
    1,R,J,G
   12,R
   15,L,U,C
@@ -365,8 +371,7 @@ console load WinterCollab2021/1-Maps/Jackal_KAERRA
    4,R,J,G
    9,R
    7,R,X
-   4,D,C
-   3,L,C
+   7,L,Z
    5,R,J
    7,R
   27,R,X
@@ -848,4 +853,4 @@ console load WinterCollab2021/1-Maps/Jackal_KAERRA
    2,L,D
    2,R,D
    2,L,D
-#105.145(6185)
+#104.992(6176)

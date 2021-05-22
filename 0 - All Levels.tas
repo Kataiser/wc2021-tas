@@ -123,7 +123,9 @@ Read,ExitLevel
 
 Read,Lobby\fusion7-fusionside,Start
 Read,EnterLevel
-Read,Maps\Fusion Side
+Read,Maps\Fusion Side,Start
   59
    1,O
+
+***
 
