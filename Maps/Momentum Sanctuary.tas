@@ -248,6 +248,21 @@ console load WinterCollab2021/1-Maps/Cabob
   21,D,X
   19,L,C
    5
+
+#gets extra boost  cant get it to not die 
+#  14,L,D,X
+#  18,L,J
+#  14,L
+#  15,D,X
+#   7,R,C
+#   2,R,X
+#   4,R,C
+#  21,R,X
+#  36,R,D,C
+#  50,R,J
+# 500,L,D
+# 500,R,K
+
   14,L,D,X
    4,L,J
   21,L
@@ -258,26 +273,30 @@ console load WinterCollab2021/1-Maps/Cabob
    4,R,J
    1,R,K
   15,R,D,X
-   2,R,D
-  25,R,J
-  11,R,D,X
-  24,R,J
-  23,U,X
-   5,R
-  15,R,Z
-  34,R
-  10,D,X
-  56,R
-  13,U,X
-  27,R,J
    2,R
-   1,J
-   1,K,G
+  25,R,J
+   9,R,D,X
+  24,R,J
+  27,U,X
+  11,L,U,C
+  18,R,D
+   8,R,X
+   7,R,J
+  36,R,D
+   5,L,Z
+  55,R
+  12,U,X
+  25,R,J
+   2,R
+   1
+   3,R
+   1,R,K,G
    7,R
    4,Z
+#cant resync this 6f bhop
    1,R,J
-   6,R
-   1,R,J
+   7,R
+#   1,R,J
   40
 
 #lvl_a-05
@@ -285,20 +304,19 @@ console load WinterCollab2021/1-Maps/Cabob
    1,J
    1,R,J
   26,U,Z
-  12,R
+   1,U,Z
+   9,R
    1
+   3,R
   11,R,X
   11,R,J
    9,R
-   4,R,J
-  13,R,D
+   2,R,J
+  15,R,D
   14,L,D
-   2,L,D
-   1,D
-   1,L,D
-   2,D
-   1,L,D
-   1,D
+   2,L
+   1
+   5,L
   14,L,Z
   58,R,D
   28,R,X
@@ -351,16 +369,15 @@ console load WinterCollab2021/1-Maps/Cabob
    4,L
   28,L,D
    8,R,D
-   3,R
-  25,R,X
-   4,L,G
-  24,L,Z
+   2,R
+  25,R,Z
+   4,L,X
+   1,L,C
+   7,L,X
    4,L,J
-   2,L,K
-   5,L
-   5,L,K
-  33,U,X
-  24,L,C
+   4,L,K
+  35,U,X
+  25,L,C
    7,L,J
    4,Z
   12,L,J
@@ -372,9 +389,9 @@ console load WinterCollab2021/1-Maps/Cabob
   18,L,X
   15,U,C
   15,L,Z
-  10,L,D
-  11,D,X
-  43,L
+  11,L,D
+  10,D,X
+  44,L
   14,L,Z
    1,L,J
   10,L,D,X
@@ -417,27 +434,27 @@ console load WinterCollab2021/1-Maps/Cabob
    1
   42,R
   15,R,X
-  28,D,C
-  15,U,X
-   7,U,C
-  18,L
+  24,D,C
+   4,U,X
+  15,U,C
+  14,L
   18,L,U,X
-  12,L,U,C
-  12,R
+  15,L,U,C
+  11,R
   29,R,X
+   4,L,C
+  13,L,X
    4,L,J
-  15,L,X
-   8,L,C
-   5,L,J
   11,L,K
-  21,L
-   3,L,D
-   1,L
-  14,L,U,X
+   5,L
+  23,L,J
+  12,L,U,X
    1,L,J,G
-  13,L
+   5,L
+   6,L,J
+   3,L
    1,L,J
-   8,L,D,X
+  10,L,D,X
   40
 
 #lvl_a-08
@@ -674,13 +691,10 @@ console load WinterCollab2021/1-Maps/Cabob
    1,R,C
   13,R,X
    4,R,J
-  11,R,K
-   6,R
-   1,K
-   3
-   1
-  19
-  46,L,D,X
-  45,R
-  55,R,D,X
-#101.558(5974)
+  22,R,K
+   1,R
+  37,R,D,X
+  33,L
+  97,L,D,X
+
+ChapterTime: 1:41.354(5962)

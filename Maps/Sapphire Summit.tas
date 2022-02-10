@@ -89,9 +89,10 @@ console load WinterCollab2021/1-Maps/Banana23
    1
   32,R
    1,R,G
-   9,R,J,G
-   1,J
-   7,U,Z
+   6,R,J,G
+   2,J
+   1,R,J
+   6,U,Z
    8,R,J
    9,R
    1,R,J,G
@@ -307,23 +308,25 @@ console load WinterCollab2021/1-Maps/Banana23
   15,L,U,X
    1,L
    1,J,G
-  22,R
+  20,R
    1
    1,R
+   2
   15,U,X
-   4,R
-   1,R
+   5,R
    5,R,U,X
   16,L
   10,U,X
-  34,R,J
+  33,R,J
    5,R,U,X
-  22,L
-  15,U,X
-   5,L,U,C
-  13,R
+  20,L
+   2
+  14,U,X
+   1
+   6,L,U,C
+  11,R
   14,R,U,X
-   1,R,J,G
+   1,J,G
    7,R
    4,Z
    1,R,J
@@ -534,4 +537,5 @@ console load WinterCollab2021/1-Maps/Banana23
    7,R,J
   15,R,U,X
  135
-#80.988(4764)
+   1
+#80.920(4760)
