@@ -33,42 +33,41 @@ console load WinterCollab2021/1-Maps/Viv
    5,R
    3,R,J
    8,R
-   2,R,D
-  10,D
+  12,D
    2
-   6,D
-  14,R,Z
-   1,R,J
-  15,R,D,X
    6,R,D
-   6,L,D
-  16,R,D
+  14,R,Z
+   6,R
+   3,R,D
    1,R,J
-  14,R
-  10,R,J
-  21,R,D
-  18,R,J
-  12,R,K,G
-   5,J,G
-   1,L,J
+   1,R
+  12,R,J
+  11,R,D
+  13,R,D,X
+   5,R,J
+   3,R
+   1,R,J
+   6,R
+  12,R,J
+  12,K,G
+  10,J,G
    3,K
+Repeat,2
    2,J
    2,K
-   2,J
-   2,K
-   2,J
-   4,K
+EndRepeat
+   6,K
    1,L,K
-   1,K
-   1,L,K
-   3,J
+   1
+   1,L
+   2,J
+   1,R,J
    1,R,K,G
    1,R,J,G
-   5,R,D
-   5,R,J
-  10,R,D
-   2,L,D
-  27,R,D
+  17,R
+   1,R,D
+   3,L,D
+  25,R,D
   10,R,D,X
    1,R,J
    4,R
@@ -120,43 +119,38 @@ console load WinterCollab2021/1-Maps/Viv
    6,R,J
   10,R,D,X
    1,R,J
-   7,R
-  19,R,J
-  14,R,U,X
-  12,R,J,G
-   8,K,G
-   1,L,K,G
-   1,J
-   1,K
-   9,L,K
-   7,L
-   3,L,J
-  13,L
-   1,R
-   4,J,G
-   4,L,J,G
-   1
-   1,L
-   1,L,K,G
-   4,L,J,G
-  23,L
    6,R
-   1
+   1,R,K
+   9,R,J
+   1,R
+  10,L,U,Z
+   1,S,N
+  10,O
+   3,L
+   1,J,G
+   1,R,J,G
+  14,L,K,G
+   5
+   1,R,J,G
+   1,R
+   1,K
+   3,L
+  10
 
 #spinner cycle
 #2 for IL
-   1
+   2
 
-   2,R
-   4,R,J
-   6,R
-   6,J,G
-   7,R,J,G
-   6,J
+   1,R
+   5,R,J
+   5,R
+   5,K,G
+   6,R,K,G
+   4,K
    7,R,D,X
-  14,L,J
+  16,L,J
    4,J
-   3,L,J
+   1,L,J
    4,L,K,G
    3,R,K,G
    1,L,K,G
@@ -265,92 +259,99 @@ console load WinterCollab2021/1-Maps/Viv
 #lvl_Viv-4
    1,R,J
   15,R,X
+  14,R,D,C
+   1,R,J
+   6,R
+   1,R,K,G
    4,R
-  13,L,D,X
-   1,R,J
-   1
-   6,R
-   1,R,D,J
-  13,R,D,X
-   8,R,J,G
-   1
-  14,R
-   3
-  12,R,J
-  13,R,U,X
-   1,J,G
-   5,R
-   1,L
-  21
-   4,L
-  21,R,D
-  15,R,J,G
   15,R,D,X
-   5,R,J
-  10,L,D,C
-  12,R,J
-   5,J
-   1
-  15,R,D,X
-  12,D
-   4
-   1,D
-   1
-   1,D
-   8,L,Z
-   1,R,J
-   6,R
-  11,R,J
-   2,R
-  14,R,U,X
-   1,J,G
-   6,R
-   8,L
-   4
-   1,L
-   3
-   1,L
-  53
-  20,L
-   4
-   7,R,D,X
-  17,L,J
-   1,J
-   6,L,J
-   2,L
-   3,L,K,G
-   1,J,G
-   1,L,J
-   6,L
+   7,R,D
+   7,R,J
+   8,R
+   7,R,U,Z
+Repeat,3
+   1,S,N
+  10,O
+   2,R,U
+EndRepeat
+
+   1,S,N
+  10,O
+   1,R,U
+   1,R,J,G
+
+   1,S,N
+  10,O
+   1,R,J,G
    1,R
+
+   1,S,N
+  10,O
+   2,R,D
+
+   1,S,N
+  10,O
+   2,R,G
    1,R,J
-   9,R
-  20,D
-  12
-  11,L,Z
-   8,R,J
-  25,R
-  14,R,X
-   3,R,J
-   1,R,K,G
-   1,J,G
+  34,R,D
+   4,D
+   7
+   7,L,Z
+   1,R,J
+   6,R
+   6,R,J
+
+   1,S,N
+  10,O
    2,R,J
-   5,J
-   6,L,J
-  12,L,K,G
-  12,L,J,G
-   6,K,G
-   2,R,K
-   9,J
-   1,R,K,G
-   3,L,K
-   3,R,K
-   7,R
+
+   1,S,N
+  10,O
+   2,R,J
+
+   1,S,N
+  10,O
+   2,R,J
+
+   1,S,N
+  10,O
    1,R,J
-  10,R
-   1
+   4,R,U,X
+
+
+Repeat,5
+   1,S,N
+  10,O
+   2,R,U,X
+EndRepeat
+
+Repeat,1
+   1,S,N
+  10,O
+   1,R,J,G
+   1,R
+EndRepeat
+
+Repeat,2
+   1,S,N
+  10,O
    2,R
-   5,L,D,X
+EndRepeat
+
+   1,S,N
+  10,O
+   2,R,J
+
+Repeat,3
+   1,S,N
+  10,O
+   2,R
+EndRepeat
+   4,R,D
+   3,D
+   1,L
+   1,L,J
+   7,L,Z
    1,R,J
    6,R
   40
@@ -359,12 +360,13 @@ console load WinterCollab2021/1-Maps/Viv
   14,R,D,X
    1,R,J
    7,R
+   2,R,J
+   9,R
    1,R,J
-  11,R
    3
-   5,D,X
-  35,D
-   4,R,D
+   6,D,X
+   4,J
+  18,D
   15,L,D
   15,R,D
   15,L,D
@@ -376,15 +378,15 @@ console load WinterCollab2021/1-Maps/Viv
   15,L,D
   15,R,D
   20,L,D
-  12,R,D
+  11,R,D
 
 #lvl_Viv-5
-   1
    1,R,J
   23,D
    1,R,J
   14,R,D
-  14,D
+  13,D
+   2,L,D
    1,J
   18,R,J
   10,U,X
@@ -392,94 +394,49 @@ console load WinterCollab2021/1-Maps/Viv
    5,L,J,G
    7,L
 #these two set commands will fix any jank with savestates. Comment them out before posting
-#Set, ExtendedVariantMode.DashRefillOnGroundState, 2
-   1,L
+Set, ExtendedVariantMode.DashRefillOnGroundState, 2
+   1,L,J
   10,L,D,X
-  43,R,J
-#Set, ExtendedVariantMode.DashRefillOnGroundState, 0
-  19,R,G
+  38,R,J
+   5,J
+Set, ExtendedVariantMode.DashRefillOnGroundState, 0
   11,R,K,G
-   8,R,J,G
+   7,R,J,G
    5,R,Z
   13,L,J
    1,L
-   1,L,J
-  11,L,D
+  12,L,D
    1,R,D
   19,D
    3,R,D
    2,D
-  14,R,D,X
-  11,R,J
+  11,R,D,X
+   9,R,J
    1,R
-  11,R,J
-  11,R,G
-   7,R,J,G
-  34,D
-  10,L,D
-  15,L,Z
-   6,L
-   1,D
-   1,U
-   1,D
-   1,U
-   1,D
-   1,U
-   1,D
-   1,U
-   1,D
-   1,U
-   1,D
-   1,U
-   1,D
-   1,U
-   1,D
-   1,U
-   1,D
-   1,U
-   1,D
-   1,U
-   1,D
-   1,U
-   1,D
-   1,U
-   1,D
-   1,U
-   1,D
-   1,U
-   1,D
-   1,U
-   1,D
-   1,U
-   1,R
-   1,L
-   1,R
-   1,L
-   1,R
-  14
-   2,L,G
-   7,L,U,G
-   3,L
-   1
-   4,L
-   1,L,G
-   1,L
-   9,R,Z
+  10,R,J
+  12,R,D
+  15,D
+   9,L,D
+   7,L,D,X
+   1,L,J
+   8,L
+  10,R,D,X
    1,R,J
    7,R
+   6,R,J
+   5,R
    4,R,J
-   9,R,K,G
-  21,R
-  14,L
-  83
-   3,J
-   1,L,J
+  11,R
+  14,R,Z
+   1,R,J
+  15,D,X
+   5,J
+   5
    1,J
-   5,L
-   1,L,J
-   1,L
-   1,L,J
-  11,L
+   1
+   1,J
+   1
+  10,L
    4,D,X
    2,R,J
    2,R
@@ -717,4 +674,4 @@ console load WinterCollab2021/1-Maps/Viv
   15,L,D,X
   58,R,D
   77,R
-#92.208(5424)
+ChapterTime: 1:24.218(4954)
